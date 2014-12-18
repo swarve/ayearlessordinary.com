@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            a year less ordinary 
+description:      
+disqus_shortname: ayearlessordinary
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -24,7 +24,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
@@ -36,7 +36,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Melbourne
 future:      true
 highlighter: pygments
 markdown:    kramdown
