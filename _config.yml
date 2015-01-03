@@ -26,6 +26,16 @@ owner:
   # google plus id, include the '+', eg +mmistakes
   google_plus:    
 
+authors:
+  Simon:
+    name: Simon
+    display_name: Simon
+    email: swarve@gmail.com
+  Jacqui:
+    name: Jacqui
+    display_name: Jacqui
+    email: jacquigodinagh@gmail.com
+
 # Background image to be tiled on all pages
 background: 
 
