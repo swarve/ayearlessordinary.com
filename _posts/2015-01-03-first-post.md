@@ -3,6 +3,7 @@ layout: post
 title: "Our year less ordinary begins"
 tags: [Canada]
 author: Jacqui
+comments: true
 ---
 
 ## Vancouver, Canada.
