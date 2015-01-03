@@ -9,7 +9,7 @@ image:
 ---
 
 {% for post in paginator.posts %}
-{% assign author = site.authors[page.author] %}
+{% assign author = site.authors[post.author] %}
 <article class="hentry">
   <header>
     <div class="entry-meta">
