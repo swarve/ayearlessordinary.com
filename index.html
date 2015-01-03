@@ -8,6 +8,12 @@ image:
   feature: 10547091_10153399864263840_5783203170500414306_o.jpg
 ---
 
+<script>
+var host = "ayearlessordinary.com";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+</script>
+
 {% for post in paginator.posts %}
 {% assign author = site.authors[post.author] %}
 <article class="hentry">
