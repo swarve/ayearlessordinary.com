@@ -23,5 +23,6 @@ The process of getting dry while your whole body is numb and standing on freezin
 
 ![Polar Bear Swim](../images/IMG_3384.jpg)
 
+![Polar Bear Swim](../images/IMG_3393.jpg)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/wsVommb48IQ" frameborder="0" allowfullscreen></iframe>
