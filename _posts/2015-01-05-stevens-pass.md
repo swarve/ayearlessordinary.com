@@ -2,7 +2,6 @@
 layout: post
 title: Stevens Pass
 modified: 2015
-categories: Travel
 tags: [Seattle, Travel]
 author: Simon
 comments: true
