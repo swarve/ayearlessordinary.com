@@ -8,7 +8,7 @@ author: Simon
 comments: true
 ---
 
-It's New Year's day, your hungover and it's really cold outside, what's the best way to spend you day? Well, swimming in the ocean with hundreds of other idiots was pretty high on my list...
+It's New Year's day, you're hungover and it's really cold outside, what's the best way to spend you day? Well, swimming in the ocean with hundreds of other idiots was pretty high on my list...
 
 The Polar Bear Swim is a yearly ritual, it's 100 yard race out to a man in a row boat. Everyone comes dressed in their costumes, as Elvis, or simply with a beer box on their head. Once people get out there the madness of the cold really sinks in, everyone fights to try and hang on to the side of the row boat.
 
