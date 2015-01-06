@@ -16,4 +16,4 @@ comments: true
 
 ![Stevens Pass](../images/IMG_20150104_151851.jpg)
 
-![Stevens Pass](../images/IMG_20150104_151855.jpg)
+![Stevens Pass](../images/IMG_20150104_122058.jpg)
