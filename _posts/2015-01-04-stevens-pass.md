@@ -8,4 +8,8 @@ author: Simon
 comments: true
 ---
 
-![Stevens Pass](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150104_151855.jpg)
+![Stevens Pass](../images/IMG_20150104_151855.jpg)
+
+![Stevens Pass](../images/IMG_20150104_151851.jpg)
+
+![Stevens Pass](../images/IMG_20150104_151855.jpg)
