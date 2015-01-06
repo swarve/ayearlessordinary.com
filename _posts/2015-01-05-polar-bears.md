@@ -12,7 +12,7 @@ It's New Year's day, your hungover and it's really cold outside, what's the best
 
 The Polar Bear Swim is a yearly ritual, it's 100 yard race out to a man in a row boat. Everyone comes dressed in their costumes, as Elvis, or simply with a beer box on their head. Once people get out there the madness of the cold really sinks in, everyone fights to try and hang on to the side of the row boat.
 
-Air temperature: **4° celsius**
+Air temperature: **4° celsius**<br>
 Water temperature: **3° celsius**
 
 ![Polar Bear Swim](../images/IMG_3340.jpg)
