@@ -9,7 +9,7 @@ url: https://ayearlessordinary.com
 
 # Owner/author information
 owner:
-  name:           Simon & Jacqui
+  name:           Simon &amp; Jacqui
   avatar:         avatar.jpg
   bio:            "Travelling. One day at a time"
   email:          swarve@gmail.com
@@ -46,7 +46,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Australia/Melbourne
+timezone:    America/Vancouver
 future:      true
 highlighter: pygments
 markdown:    kramdown
