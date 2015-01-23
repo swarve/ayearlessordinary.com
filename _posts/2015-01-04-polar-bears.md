@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vancouver Polar Bear Swim
-modified: 2015
+modified: 2015-01-04
 tags: [Vancouver, Travel]
 author: Simon
 comments: true
