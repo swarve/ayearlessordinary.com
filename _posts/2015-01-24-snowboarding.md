@@ -11,7 +11,7 @@ We timed our arrival to Sun Peaks two days too late. A 30 year record snowfall o
 
 <figure>
 <a href="http://www.sunpeaksresort.com/winter/interactive-maps/alpine"><img src="../images/2014-15-Sun-Peaks-Resort-Alpine-Map.jpg" alt=""></a>
-	<figcaption><a href="http://www.sunpeaksresort.com/winter/interactive-maps/alpine" title="Sun Peaks trail map</a>.</figcaption>
+	<figcaption><a href="http://www.sunpeaksresort.com/winter/interactive-maps/alpine" title="Sun Peaks trail map">Sun Peaks trail map</a>.</figcaption>
 </figure>
 
 #### Bluebird Days
