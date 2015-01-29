@@ -28,5 +28,5 @@ After a few hours sleep we woke to find a stunning blue sky and mild temperature
 ![Sun Peaks](../images/10903831_10153029753058255_685921426576097750_o.jpg)
 
 #### 5 Mile
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pIj8LVlaI-w?rel=0&showinfo=0&autohide=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pIj8LVlaI-w?rel=0&showinfo=0&autohide=1&vq=large" frameborder="0" allowfullscreen></iframe>
 

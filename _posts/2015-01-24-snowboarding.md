@@ -35,4 +35,4 @@ When you fall, you pay the price.
 
 
 #### Three Bears
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RVBuH0WsDOE?rel=0&showinfo=0&autohide=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVBuH0WsDOE?rel=0&showinfo=0&autohide=1&vq=large" frameborder="0" allowfullscreen></iframe>
