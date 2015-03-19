@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Tracks Forest Play: An Enlightening Experience  
+title: "First Tracks Forest Play: An Enlightening Experience"
 modified: 2015-03-18
 tags: [Canmore, Forest School]
 author: Jacqui
