@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "First Tracks Forest Play: An Enlightening Experience"
+description: A visit to a forest program in Canmore, Canada
 modified: 2015-03-18
 tags: [Canmore, Forest School]
 author: Jacqui
