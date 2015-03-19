@@ -6,7 +6,7 @@ tags: [Canmore, Forest School]
 author: Jacqui
 comments: true
 image:
-  feature: ../images/IMG_3850.jpg
+  feature: IMG_3850.jpg
 ---
 
 Today Simon and I visited an outdoor forest play program in Canmore, Canada and were blessed with incredibly blue skies, mild spring weather and breathtaking surroundings. 
