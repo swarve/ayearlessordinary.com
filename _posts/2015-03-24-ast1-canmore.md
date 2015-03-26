@@ -15,10 +15,7 @@ The two day course begun with an inside theory day to learn about the many diffe
 
 When backcountry touring the minimum equipment you travel with is a avalanche transceiver, shovel & probe. More high tech gear for serious travel in avalanche terrain can include avalung backpacks (to increase the accessible oxygen once buried), and airbag backpacks (to increase your floatation (inverse segregation) and hopefully bring you closer to the surface once caught in an avalanche). A surprising insight during the theory day was that 25% of avalanche deaths in Canada were due to trauma caused by being carried through wooded areas by the avalanche rather than asphyxia due to being burried. 
 
-<figure>
 ![Splitboard split into touring mode](../images/IMG_20150322_094606.jpg)
-<figcaption>Splitboard split into touring mode</figcaption>
-</figure>
 
 The second day gave us the opportunity to head out of town into the backcountry to test our new skills in a practical sense. First off was just setting up our splitboards into the tour mode. Removing the bindings, splitting the two halves into separate skis, fitting the bindings into the tour mode and sticking on the skins to allow the skis to travel uphill.
 
