@@ -27,7 +27,11 @@ Prior to venturing out into the backcountry, the avalanche [bulletin](http://ava
 	<figcaption>Avalanche bulletin ratings.</figcaption>
 </figure>
 
-Once the group was setup and moving around, we ventured off to an area to pracice using our transcievers, probes & shovels to locate avalanche victims. We did this in pairs by burying backpacks with our transcievers inside to simulate an avalanche burial and sent someone off with their transciever to locate the backpacks. As with most of winter in Canada, it was pretty warm and the snow was pretty soft - digging pits to bury packs meant mainly sinking to your waist as soon as you step off your skis.
+Once the group was setup and moving around, we ventured off to an area to pracice using our transcievers, probes & shovels to locate avalanche victims. 
+
+![Getting used to splitboarding](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_1658.jpg)
+
+We did this in pairs by burying backpacks with our transcievers inside to simulate an avalanche burial and sent someone off with their transciever to locate the backpacks. As with most of winter in Canada, it was pretty warm and the snow was pretty soft - digging pits to bury packs meant mainly sinking to your waist as soon as you step off your skis.
 
 ![Digging pits for burying bags](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_105613.jpg)
 
@@ -36,6 +40,8 @@ After countless pits were dug and bags buried and successfully rescued, we begun
 ![Skinning up Chester Lake](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_130425.jpg)
 
 ![Enjoying the conditions](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_131946.jpg)
+
+![](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_1671.jpg)
 
 Once we climbed up the highest we were going to venture in our course, which was well into a dense forest we stopped to test the snowpack. This typically involves digging a snow pit to understanding the different layers in the snow and to hopefully correlate the warnings found in the avalanche bulletin.
 
@@ -47,6 +53,19 @@ The main test to carry out is the compression test on a 30x30x100 cm block of sn
 
 ![Compression testing](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_143307.jpg)
 
-After our snow pit testing was over, we were ready to ride down the hill on our now
+After our snow pit testing was over, we were ready to ride down the hill on our boards back in one piece.
 
+![Time to shred](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_145531.jpg) 
 
+By the time we finished for the day the snow was soft and isothermal, meaning it was wet throughout the entire snowpack. All this means as you sunk straight to waist deep as soon as you tried to go anywhere not on a board or skis.
+
+![](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_154343.jpg)
+
+![](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_1691.jpg)
+
+A really fun weekend and great introduction to backcountry riding.
+
+![](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_1697.jpg)
+
+![tailgating](
+/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_155057.jpg)
