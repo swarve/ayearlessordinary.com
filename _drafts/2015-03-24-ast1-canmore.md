@@ -21,6 +21,12 @@ The second day gave us the opportunity to head out of town into the backcountry 
 
 Prior to venturing out into the backcountry, the avalanche [bulletin](http://avalanche.ca/) is one of the several pieces of information required to understand what & where the risks are. Combine this with the [weather](http://weather.gc.ca/), [ATES rating](https://www.google.ca/search?q=ates+ratings) and [recent mountain conditions reports](http://acmg.ca/mcr/) and you've got a fairly good understanding of the broader scale conditions.
 
+<figure class="half">
+	<img src="../images/danger-rating-icons.svg" alt="">
+	<img src="../images/nowcast.svg" alt="">
+	<figcaption>Avalanche bulletin ratings.</figcaption>
+</figure>
+
 Once the group was setup and moving around, we ventured off to an area to pracice using our transcievers, probes & shovels to locate avalanche victims. We did this in pairs by burying backpacks with our transcievers inside to simulate an avalanche burial and sent someone off with their transciever to locate the backpacks. As with most of winter in Canada, it was pretty warm and the snow was pretty soft - digging pits to bury packs meant mainly sinking to your waist as soon as you step off your skis.
 
 ![Digging pits for burying bags](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_105613.jpg)
@@ -33,8 +39,14 @@ After countless pits were dug and bags buried and successfully rescued, we begun
 
 Once we climbed up the highest we were going to venture in our course, which was well into a dense forest we stopped to test the snowpack. This typically involves digging a snow pit to understanding the different layers in the snow and to hopefully correlate the warnings found in the avalanche bulletin.
 
+![Skis off, time to investigate](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_143428.jpg)
+
 This involves digging a snow pit to understand the layering that has occured as the snow has fallen and been affected by the weather and additional snow that has fallen on top of previous layers. Once dug, some layers are clearly visible, while others can be detected only by dragging your hand from surface to the bottom of the pit through the different layers. 
 
-The more 
+The main test to carry out is the compression test on a 30x30x100 cm block of snow in the snowpit. It's a rather strange to see hear about but it's relevance once seen is really relevant to riding or skiing on the various layers in the snowpack. The test involves putting your shovel on the block of snow and progressively hitting the shovel harder with your hand to see what the effects are on the snowpack layers.
+
+![Compression testing](/Users/simonlaird1/Sites/ayearlessordinary.com/images/IMG_20150322_143307.jpg)
+
+After our snow pit testing was over, we were ready to ride down the hill on our now
 
 
