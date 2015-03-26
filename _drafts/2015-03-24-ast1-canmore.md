@@ -33,6 +33,8 @@ After countless pits were dug and bags buried and successfully rescued, we begun
 
 Once we climbed up the highest we were going to venture in our course, which was well into a dense forest we stopped to test the snowpack. This typically involves digging a snow pit to understanding the different layers in the snow and to hopefully correlate the warnings found in the avalanche bulletin.
 
-This involves digging a snow pit to understand the layering that has occured as the snow has fallen and been affected by the weather and additional snow that has fallen on top of previous layers. Once dug, some layers are clearly visible, while others can be detected only by dragging your fingers from surface to the bottom of the pit through the different layers. 
+This involves digging a snow pit to understand the layering that has occured as the snow has fallen and been affected by the weather and additional snow that has fallen on top of previous layers. Once dug, some layers are clearly visible, while others can be detected only by dragging your hand from surface to the bottom of the pit through the different layers. 
+
+The more 
 
 
