@@ -9,7 +9,7 @@ image:
   feature: IMG_4121.jpg
 ---
 
-The Icefields Parkway is a specatular drive beginning in Lake Louise and going all the way up to Jasper. in Alberta.
+The Icefields Parkway is a specatular drive beginning in Lake Louise and going all the way up to Jasper, in Alberta.
 
 
 <figure>
