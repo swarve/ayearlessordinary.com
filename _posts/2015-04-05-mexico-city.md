@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Scenes of Mexico City
+title: Scenes from Mexico City
+description: Our few days in Mexico City. Eating.
 modified: 2015-04-05
 tags: [Mexico]
 author: Simon
@@ -50,7 +51,6 @@ image:
 <figure>
 	<a href="../images/IMG_2020.jpg"><img src="../images/IMG_2020.jpg" alt=""></a>
 </figure>
-
 
 <figure>
 	<a href="../images/IMG_4521.jpg"><img src="../images/IMG_4521.jpg" alt=""></a>
