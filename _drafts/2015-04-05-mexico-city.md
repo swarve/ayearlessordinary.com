@@ -43,6 +43,16 @@ image:
 </figure>
 
 <figure>
+	<a href="../images/IMG_2025.jpg"><img src="../images/IMG_2025.jpg" alt=""></a>
+	<figcaption>Museo Frida Kahlo</figcaption>
+</figure>
+
+<figure>
+	<a href="../images/IMG_2020.jpg"><img src="../images/IMG_2020.jpg" alt=""></a>
+</figure>
+
+
+<figure>
 	<a href="../images/IMG_4521.jpg"><img src="../images/IMG_4521.jpg" alt=""></a>
 	<figcaption>Museo de Arte Moderno</figcaption>
 </figure>
@@ -58,3 +68,5 @@ image:
 <figure>
 	<a href="../images/IMG_4453.jpg"><img src="../images/IMG_4453.jpg" alt=""></a>
 </figure>
+
+
