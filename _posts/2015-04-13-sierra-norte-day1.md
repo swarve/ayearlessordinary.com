@@ -2,8 +2,8 @@
 layout: post
 title: "Hiking the Sierra Norte - Day 1"
 description: "Our first day hiking in the Sierra Norte, Oaxaca"
-modified: 2015-04-10
-tags: [Mexico]
+modified: 2015-04-12
+tags: [Mexico, Oaxaca]
 author: Simon
 comments: true
 image:
