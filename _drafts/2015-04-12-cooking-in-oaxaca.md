@@ -14,14 +14,14 @@ After experiencing how good Oaxacan cuisine was to eat we decided we had to lear
 
 Our course was run by a local chef, restaurateur & bleacher of all types of produce (to kill the nasties on the outside of the food & a little bit of your insides). He goes by the name of Agustin. What a character.
 
-PHOTO OF HIM
+![Augustin](../images/IMG_5035.jpg)
 
 The first part of the day was spent touring one of the central produce markets of Oaxaca to decide on the menu & buy some ingredients with Agustin & the 5 others attending the class. 
 Our menu consisted of:
 
 * Salsa Picante
 * Guacamole
-* Queso Quesadillas
+* Quesadillas
 * Mole Negro
 * Mole Rojo
 * Chile Rellenos y pollo
@@ -41,7 +41,7 @@ Touring the market gave us a good opportunity to once again explore the variety 
 
 After the market we all ventured back to Agustin's space above his restaurant to begin learning. We were given aprons to wear, books to take notes in & beer to drink.
 
-Of the meals we cooked, mole was the most complex, requiring 20 ingredients plus the chillies. The types of chillies and the method to using them is the difference between the negro and rojo moles.
+Of the meals we cooked, mole was the most complex, requiring 20 ingredients plus the chillies. The types of chillies and the method to using them is the difference between the negro and rojo moles. 
 
 <figure class="half">
 	<a href="../images/IMG_4958.jpg"><img src="../images/IMG_4958.jpg" alt=""></a>
@@ -49,7 +49,6 @@ Of the meals we cooked, mole was the most complex, requiring 20 ingredients plus
 	<figcaption>Dried chili for mole. Mole ingredients.</figcaption>
 </figure>
 
-All the mole ingredients were combined in a frypan and fried until browned & soft, then blended with chicken stock to a smooth paste.
 
 <figure class="half">
 	<a href="../images/IMG_4992.jpg"><img src="../images/IMG_4992.jpg" alt=""></a>
@@ -71,3 +70,31 @@ The dried chillies are shredded and either blanched in chicken stock for the roj
 </figure>
 
 The cooking class that was supposed only go for 4 hours, went for well over 6 with a fridge full of cold cervezas consumed, a bottle of Mezcal sipped at and bellies plentyfull with the delicious food created.
+
+<figure class="half">
+	<a href="../images/IMG_5069.jpg"><img src="../images/IMG_5069.jpg" alt=""></a>
+	<a href="../images/IMG_5074.jpg"><img src="../images/IMG_5074.jpg" alt=""></a>
+	<a href="../images/IMG_5115.jpg"><img src="../images/IMG_5115.jpg" alt=""></a>
+	<a href="../images/IMG_5118.jpg"><img src="../images/IMG_5118.jpg" alt=""></a>
+	<figcaption>Quesadillas.</figcaption>
+</figure>
+
+
+<figure class="half">
+	<a href="../images/IMG_5218.jpg"><img src="../images/IMG_5218.jpg" alt=""></a>
+	<a href="../images/IMG_5279.jpg"><img src="../images/IMG_5279.jpg" alt=""></a>
+	<a href="../images/IMG_5298.jpg"><img src="../images/IMG_5298.jpg" alt=""></a>
+	<a href="../images/IMG_5300.jpg"><img src="../images/IMG_5300.jpg" alt=""></a>
+	<figcaption>Mole.</figcaption>
+</figure>
+
+<figure class="half">
+	<a href="../images/IMG_5351.jpg"><img src="../images/IMG_5311.jpg" alt=""></a>
+	<a href="../images/IMG_5351.jpg"><img src="../images/IMG_5351.jpg" alt=""></a>
+	<a href="../images/IMG_5376.jpg"><img src="../images/IMG_5376.jpg" alt=""></a>
+	<a href="../images/IMG_5422.jpg"><img src="../images/IMG_5422.jpg" alt=""></a>
+	<a href="../images/IMG_5409.jpg"><img src="../images/IMG_5409.jpg" alt=""></a>
+	<a href="../images/IMG_5477.jpg"><img src="../images/IMG_5477.jpg" alt=""></a>
+	<a href="../images/IMG_5499.jpg"><img src="../images/IMG_5499.jpg" alt=""></a>
+	<figcaption>Chili rellenos.</figcaption>
+</figure>
