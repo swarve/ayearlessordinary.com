@@ -4,14 +4,13 @@ title: "Hiking the Sierra Norte - Day 1"
 description: "Our first day hiking in the Sierra Norte, Oaxaca"
 modified: 2015-04-12
 tags: [Mexico, Oaxaca]
-author: Simon
+author: Jacqui
 comments: true
 image:
   feature: IMG_5626.jpg
 ---
 
-## Pueblos Mancomunados
-## Sierra Norte
+## Pueblos Mancomunados - Sierra Norte
 
 Before we headed to the pacific coast of Mexico for margaritas, seafood & surfing, we wanted to see some of the remote villages in Oaxaca and do a bit of hiking. We had heard about a community of villages in the forests of Sierra Norte where you can hike from village to village with a guide each day, staying in cabanas or with local families. We arranged our 3 day tour through a non for profit ecotourism organisation called 'Expediciones Sierra Norte' with all proceeds going towards conservation in the local villages that we visit. 
 
