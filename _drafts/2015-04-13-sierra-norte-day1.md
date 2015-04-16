@@ -45,7 +45,8 @@ Along the way our guide shared her knowledge of the local flora, explaining the 
 	<a href="../images/IMG_5653.jpg"><img src="../images/IMG_5653.jpg" alt=""></a>
 	<a href="../images/IMG_5657.jpg"><img src="../images/IMG_5657.jpg" alt=""></a>
 	<a href="../images/IMG_5667.jpg"><img src="../images/IMG_5667.jpg" alt=""></a>
-	<figcaption></figcaption>
+	<a href="../images/IMG_5634.jpg"><img src="../images/IMG_5634.jpg" alt=""></a>
+	<a href="../images/IMG_5635.jpg"><img src="../images/IMG_5635.jpg" alt=""></a>
 </figure>
 
 Many of these plants were used as medicinal methods to aide cholesterol, diarrhoea, stomach pains, heartburn, nasal congestion, chest pains etc. 
@@ -54,22 +55,28 @@ Others were used for insect repellant, to eat, to use in tea, for cleaning or as
 
 It was a steady walk up to lunch taking roughly 2 hours and walking around 8.5km. After bidding farewell to our first guide we met our second who was casually having a siesta in the sunshine while waiting for us to arrive.
 
+After a quick picnic meal (that was delicious!) to reenergise we headed off and almost straight back down the other side of the hill from where we came, navigating around rocks and watching not to slip on the many leaves and pine needles that covered the trail. This half of the walk was much more physically demanding, particularly on our knees and by this stage we were getting quite tired (which explains the lack of photos after lunch). We eventually reached a river that we meandered around until, we came across a tuchas fish farm.  
+
 <figure class="half">
 	<a href="../images/IMG_5683.jpg"><img src="../images/IMG_5683.jpg" alt=""></a>
-	<a href="../images/IMG_5653.jpg"><img src="../images/IMG_563.jpg" alt=""></a>
-	<a href="../images/IMG_5657.jpg"><img src="../images/IMG_557.jpg" alt=""></a>
-	<a href="../images/IMG_5667.jpg"><img src="../images/IMG_667.jpg" alt=""></a>
+	<a href="../images/IMG_5691.jpg"><img src="../images/IMG_5691.jpg" alt=""></a>
+	<a href="../images/IMG_5703.jpg"><img src="../images/IMG_5703.jpg" alt=""></a>
+	<a href="../images/IMG_5707.jpg"><img src="../images/IMG_5707.jpg" alt=""></a>
 	<figcaption></figcaption>
 </figure>
 
-After a quick picnic meal (that was delicious!) to reenergise we headed off and almost straight back down the other side of the hill from where we came, navigating around rocks and watching not to slip on the many leaves and pine needles that covered the trail. This half of the walk was much more physically demanding, particularly on our knees and by this stage we were getting quite tired (which explains the lack of photos after lunch). We eventually reached a river that we meandered around until, we came across a tuchas fish farm.  
-
 The last 2km slug was not easy, and it was getting very hot by this stage, but we kept on with very little resting time and water, eventually making it to the top and welcomed into Latuvi village with sounds of children running across the road to school, donkeys and chickens. Latuvi, a village of around 1120 residents, our destination for the night.
 
-Today's walk was a total of 16km, spanning across 6hours leaving us at around 1900m in altitude. 
+Today's walk was a total of 16km, spanning across 6hours leaving us at around 2200m in altitude. 
 
 Our cabanas for the night were beautiful, very comfortable & quite new considering other in the village.  
 
 We had an afternoon meal of local food, followed by a long siesta and then dinner at a resurgent across the road before a night of reading and resting. 
 
-
+<figure class="half">
+	<a href="../images/IMG_5709.jpg"><img src="../images/IMG_5709.jpg" alt=""></a>
+	<a href="../images/IMG_5750.jpg"><img src="../images/IMG_5750.jpg" alt=""></a>
+	<a href="../images/IMG_5752.jpg"><img src="../images/IMG_5752.jpg" alt=""></a>
+	<a href="../images/IMG_5707.jpg"><img src="../images/IMG_507.jpg" alt=""></a>
+	<figcaption>A well earned meal. **Lunch:** Soup, rice & blue corn tortillas. **Dinner:** Quesadillas & chocolate con leche</figcaption>
+</figure>
