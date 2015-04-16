@@ -77,6 +77,6 @@ We had an afternoon meal of local food, followed by a long siesta and then dinne
 	<a href="../images/IMG_5709.jpg"><img src="../images/IMG_5709.jpg" alt=""></a>
 	<a href="../images/IMG_5750.jpg"><img src="../images/IMG_5750.jpg" alt=""></a>
 	<a href="../images/IMG_5752.jpg"><img src="../images/IMG_5752.jpg" alt=""></a>
-	<a href="../images/IMG_5707.jpg"><img src="../images/IMG_507.jpg" alt=""></a>
+	<a href="../images/IMG_5754.jpg"><img src="../images/IMG_5754.jpg" alt=""></a>
 	<figcaption>A well earned meal. **Lunch:** Soup, rice & blue corn tortillas. **Dinner:** Quesadillas & chocolate con leche</figcaption>
 </figure>
