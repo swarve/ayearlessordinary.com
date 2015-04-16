@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Cooking in Oaxaca
-description: Our cooking class with Augustin
+title: "Hiking the Sierra Norte - Day 1"
+description: "Our first day hiking in the Sierra Norte, Oaxaca"
 modified: 2015-04-10
 tags: [Mexico]
 author: Simon
 comments: true
 image:
-  feature: IMG_5103.jpg
+  feature: IMG_5626.jpg
 ---
 
 ## Pueblos Mancomunados
 ## Sierra Norte
 
-Before we headed to the pacific coast of Mexico for margaritas, seafood & snorkelling we wanted to see some of the remote villages in Oaxaca and do a bit of hiking. We had heard about a community of villages in the forests of Sierra Norte where you can hike from village to village with a guide each day, staying in cabanas or with local families. We arranged our 3 day tour through a non for profit ecotourism organisation called 'Expediciones Sierra Norte' with all proceeds going towards conservation in the local villages that we visit. 
+Before we headed to the pacific coast of Mexico for margaritas, seafood & surfing, we wanted to see some of the remote villages in Oaxaca and do a bit of hiking. We had heard about a community of villages in the forests of Sierra Norte where you can hike from village to village with a guide each day, staying in cabanas or with local families. We arranged our 3 day tour through a non for profit ecotourism organisation called 'Expediciones Sierra Norte' with all proceeds going towards conservation in the local villages that we visit. 
 
 ### Day 1:
 
@@ -69,6 +69,11 @@ The last 2km slug was not easy, and it was getting very hot by this stage, but w
 
 Today's walk was a total of 16km, spanning across 6hours leaving us at around 2200m in altitude. 
 
+<figure>
+	<a href="../images/IMG_5752.jpg"><img src="../images/IMG_5752.jpg" alt=""></a>
+	<a href="../images/IMG_5754.jpg"><img src="../images/IMG_5754.jpg" alt=""></a>
+</figure>
+
 Our cabanas for the night were beautiful, very comfortable & quite new considering other in the village.  
 
 We had an afternoon meal of local food, followed by a long siesta and then dinner at a resurgent across the road before a night of reading and resting. 
@@ -76,7 +81,5 @@ We had an afternoon meal of local food, followed by a long siesta and then dinne
 <figure class="half">
 	<a href="../images/IMG_5709.jpg"><img src="../images/IMG_5709.jpg" alt=""></a>
 	<a href="../images/IMG_5750.jpg"><img src="../images/IMG_5750.jpg" alt=""></a>
-	<a href="../images/IMG_5752.jpg"><img src="../images/IMG_5752.jpg" alt=""></a>
-	<a href="../images/IMG_5754.jpg"><img src="../images/IMG_5754.jpg" alt=""></a>
 	<figcaption>A well earned meal. **Lunch:** Soup, rice & blue corn tortillas. **Dinner:** Quesadillas & chocolate con leche</figcaption>
 </figure>
