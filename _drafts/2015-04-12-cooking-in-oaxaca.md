@@ -7,7 +7,7 @@ tags: [Mexico]
 author: Simon
 comments: true
 image:
-  feature: 
+  feature: IMG_5103.jpg
 ---
 
 After experiencing how good Oaxacan cuisine was to eat we decided we had to learn some more about the background to the complex flavours of the food we enjoyed and also how to cook some. We had never been to a cooking class before and this was certainly an all round educational, boozey and fun day in Oaxaca. 
