@@ -22,7 +22,7 @@
 {% if post.image.feature or site.background %}
 {% capture background %}{% if post.image.feature %}{{ post.image.feature }}{% else %}{{ site.background }}{% endif %}{% endcapture %}
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}
-<meta property="og:image" content="{{ background }}">
+<meta property="og:image" content="{{ post.image.feature }}">
 {% endif %}
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
