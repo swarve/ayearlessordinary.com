@@ -7,7 +7,7 @@ tags: [Mexico, Oaxaca]
 author: Simon
 comments: true
 image:
-  feature: IMG_4610.jpg
+  feature: IMG_4611.jpg
 ---
 
 <figure class="half">
