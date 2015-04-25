@@ -26,7 +26,7 @@ We set off not long after on the 4 hour journey to La Neveria with our guide fro
 	<figcaption>Drying maize. La familia</figcaption>
 </figure>
 
-Part of our journey was along the Zapotec Camino Real from *** to Oaxaca. Along the way we saw again many medicinal plants & again attempted to interpret the condition they were for & the method of consumption.
+Part of our journey was along the Zapotec Camino Real across Oaxaca. Along the way we saw again many medicinal plants & again attempted to interpret the condition they were for & the method of consumption.
 
 <figure class="half">
 	<a href="../images/IMG_5784.jpg"><img src="../images/IMG_5784.jpg" alt="Camino Real"></a>
