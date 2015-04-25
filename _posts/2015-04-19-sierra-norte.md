@@ -129,8 +129,3 @@ Along the trail to Benito Juárez we once again walked through forrests of pine 
 	<a href="../images/IMG_5958.jpg"><img src="../images/IMG_5958.jpg" alt="along the trail"></a>
 	<figcaption>With the maguey.</figcaption>
 </figure>
-
-
-"Mucho gusto su pantalones. ¿Dónde usted comprar? ¿Cuantos?
-"Costa por su Camera, su zapateros?"
-"¿Cuantos años su mama?
