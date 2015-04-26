@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Puerto Escondido
-description: "Surfing, relaxing and enjoying Puerto Escondido
+description: "Surfing, relaxing and enjoying Puerto Escondido"
 modified: 2015-04-20
 tags: [Mexico, Oaxaca]
 author: Simon
