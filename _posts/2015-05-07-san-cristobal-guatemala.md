@@ -25,7 +25,7 @@ From Puerto Escondido we went to San Cristobal Las Casas, which we loved. The mo
 
 ## San Marcos, Lake Atitlan
 
-From San Cristobal we embarked on a 13 hour shuttle journey crossing the border into Guatemala where we eventaully arrived (after a <a href="http://en.wikipedia.org/wiki/Launch_%28boat%29" target"_blank">lancha boat</a> across the lake) at San Marcos la Laguna on Lago Atitlan where we stayed for a relaxing 5 days. 
+From San Cristobal we embarked on a 13 hour shuttle journey crossing the border into Guatemala where we eventaully arrived (after a <a href="http://en.wikipedia.org/wiki/Launch_(boat)" target="_blank">lancha boat</a> across the lake) at San Marcos la Laguna on Lago Atitlan where we stayed for a relaxing 5 days. 
 
 We stayed away for the crowds up on a hill with a view of the lake, amongst avocado trees and local Mayan families.
 
