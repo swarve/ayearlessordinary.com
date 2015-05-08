@@ -58,7 +58,7 @@ We did take the time to walk down to the lake a couple of times to jump from the
 
 ## Antigua
 
-After our 5 days off blissing out were over we headed on short shuttle to Antigua where we stayed for over a week learning Spanish and climbing Volcan Acatenango (more in next blog post about the climb).
+After our 5 days of blissing out were over we headed on short shuttle to Antigua where we stayed for over a week learning Spanish and climbing Volcan Acatenango (more in next blog post about the climb).
 
 <figure class="half">
 <a href="../images/IMG_6527.jpg"><img src="../images/IMG_6527.jpg" alt=""></a>
