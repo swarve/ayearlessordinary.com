@@ -7,7 +7,7 @@ tags: [Mexico, Guatemala]
 author: Jacqui
 comments: true
 image:
-  feature:
+  feature: IMG_6444.jpg
 ---
 It's been awhile since we last posted, so long that we have already checked off another two countries since Mexico. I know, I know.. being on holiday and enjoying every moment without thinking about documenting the experiences.. how could we. 
 
