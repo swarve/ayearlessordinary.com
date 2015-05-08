@@ -2,7 +2,7 @@
 layout: post
 title: San Cristobal Las Casas & Guatemala 
 description: Relaxing in San Marcos, Lago Atitlan & Learning Spanish in Antigua.
-modified: 2015-04-20
+modified: 2015-05-07
 tags: [Mexico, Guatemala]
 author: Jacqui
 comments: true
