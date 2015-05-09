@@ -61,9 +61,8 @@ After just over an hour at the summit, the cold became too much for me and I was
 
 <figure class="half">
 	<a href="../images/IMG_6684.jpg"><img src="../images/IMG_6684.jpg" alt="About to descend"></a>
-	<figcaption>About to descend</figcaption>
 <a href="../images/IMG_6682.jpg"><img src="../images/IMG_6682.jpg" alt="Long way down"></a>
-	<figcaption>Long way down.</figcaption>
+	<figcaption>About to descend. Long way down.</figcaption>
 </figure>
 
 <figure>
