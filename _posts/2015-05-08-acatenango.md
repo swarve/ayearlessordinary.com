@@ -67,6 +67,6 @@ After just over an hour at the summit, the cold became too much for me and I was
 </figure>
 
 <figure>
-<a href="../images/IMG_6646.jpg"><img src="../images/IMG_6646.jpg" alt="Acatenango"></a>
-	<figcaption>Acatenango & Fuego</figcaption>
+<a href="../images/IMG_6643.jpg"><img src="../images/IMG_6643.jpg" alt="Acatenango"></a>
+	<figcaption>Acatenango with Agua & Fuego in the background</figcaption>
 </figure>
