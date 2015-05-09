@@ -70,3 +70,5 @@ After just over an hour at the summit, the cold became too much for me and I was
 <a href="../images/IMG_6643.jpg"><img src="../images/IMG_6643.jpg" alt="Acatenango"></a>
 	<figcaption>Acatenango with Agua & Fuego in the background</figcaption>
 </figure>
+
+<iframe src='https://connect.garmin.com/activity/embed/762322374?charts=all' width='460' height='500' frameborder='0'></iframe>
