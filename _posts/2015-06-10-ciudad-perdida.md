@@ -65,7 +65,7 @@ After we crossed, the rain storm began. We had about 30 minutes of walking & scr
 
 ### Day 3
 
-As our tour group was only 3 people, we were much faster than the other groups who occasionally had people who loved the slower, wandering in the jundle style of hiking. As a group we much preferred to power through the hikes & climbs, so we were adament to be the first group to reach the Ciudad Perdida on day 3.
+As our tour group was only 3 people, we were much faster than the other groups who occasionally had people who loved the slower, wandering in the jungle style of hiking. As a group we much preferred to power through the hikes & climbs, so we were adamant to be the first group to reach the Ciudad Perdida on day 3.
 
 We quickly ate breakfast at around 5:30am and set off up the river towards the 1400 steps that took us up to the city.
 
@@ -74,7 +74,7 @@ We quickly ate breakfast at around 5:30am and set off up the river towards the 1
 	<a href="../images/IMG_7554.jpg"><img src="../images/IMG_7554.jpg" alt=""></a>
 </figure>
 
-After a 20 minute walk and climb up all the neverending stairs we reached the bottom of the city, and from there our hike was finally paying off. We spent the next few hours exploring the city and all the terraces and areas we could access.
+After a 20 minute walk and climb up all the never-ending stairs we reached the bottom of the city, and from there our hike was finally paying off. We spent the next few hours exploring the city and all the terraces and areas we could access.
 
 <figure>
 	<a href="../images/IMG_7579.jpg"><img src="../images/IMG_7579.jpg" alt=""></a>
@@ -90,11 +90,11 @@ After a 20 minute walk and climb up all the neverending stairs we reached the bo
 	<figcaption>The surrounding jungle</figcaption>
 </figure>
 
-After returning to the camp we stayed at the previous night, we had lunch, packed our things and left for the final cabanas. We arrived several hours later just as the biggest rain storm we saw for the entire trip was beggining. The cooks and other tour groups were unluckily caught in the rain & arrived drenched and covered in mud from slipping over on the river of a trail.
+After returning to the camp we stayed at the previous night, we had lunch, packed our things and left for the final cabanas. We arrived several hours later just as the biggest rain storm we saw for the entire trip was beginning. The cooks and other tour groups were unluckily caught in the rain & arrived drenched and covered in mud from sliding off the side of the trails.
 
 ### Day 4
 
-By the final day we were keen to get back to Santa Marta as soon as possible, 1: because we had seen what we had come to see, and 2: because the champions league final was on at 2pm! We left camp eagarly around 5:30 in the morning and reached the first nights camp, for a break & fruit 2 hours later.
+By the final day we were keen to get back to Santa Marta as soon as possible, 1: because we had seen what we had come to see, and 2: because the UEFA Champions League final was on at 2pm! We left camp eagerly around 5:30 in the morning and reached the first nights camp, for a break & fruit 2 hours later.
 
 Finally, after another round of steep hills we reached El Mamey, the finish point where we enjoyed our final filling meal and headed back to Santa Marta (not soon enough!).
 
@@ -102,4 +102,4 @@ Finally, after another round of steep hills we reached El Mamey, the finish poin
 	<a href="../images/IMG_7671.jpg"><img src="../images/IMG_7671.jpg" alt=""></a>
 </figure>
 
-The Lost City trek was definetly worth it and a challenging trek in such humid and sweaty conditions. The distances travelled each day were easily achieved and we had alot of donw time each afternoon to relax at the cabanas. Staying in soft beds and having each meal prepared for us with fresh ingredients gave it a true 'luxury' feel. Something we weren't used to, but surely appreciated. When you visit Colombia (which I hope everyone does!!), Ciudad Perdida is a must. 
+The Lost City trek was definitely worth it and a challenging trek in such humid and sweaty conditions. The distances travelled each day were easily achieved and we had a lot of done time each afternoon to relax at the cabanas. Staying in soft beds and having each meal prepared for us with fresh ingredients gave it a true 'luxury' feel. Something we weren't used to, but surely appreciated. When you visit Colombia (which I hope everyone does!!), Ciudad Perdida is a must. 
