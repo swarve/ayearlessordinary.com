@@ -7,7 +7,7 @@ tags: [Colombia, Trek, Lost City]
 author: Simon
 comments: true
 image:
-  feature: IMG_.jpg
+  feature: IMG_7615.jpg
 ---
 
 Ciudad Perdida (Spanish for "Lost City") is the archaeological site of an ancient city in Colombia's Sierra Nevada de Santa Marta. It is believed to have been founded about 800 AD, some 650 years earlier than Machu Picchu.
@@ -61,4 +61,29 @@ As we progressed deeper into the jungle the humidity and rain increased. We knew
 	<figcaption>River crossing - the drier way</figcaption>
 </figure>
 
-After we crossed, the rain storm began. We had about 30 minutes of walking & scrambling remaining ahead of us to the reach the camp
+After we crossed, the rain storm began. We had about 30 minutes of walking & scrambling remaining ahead of us to the reach the camp. Once we arrived we were sufficiently drenched in sweat & rain.
+
+### Day 3
+
+As our tour group was only 3 people, we were much faster than the other groups who occasionally had people who loved the slower, wandering in the jundle style of hiking. As a group we much preferred to power through the hikes & climbs, so we were adament to be the first group to reach the Ciudad Perdida on day 3.
+
+After another good sleep in a bunk bed, some other tour groups were up earlier rustling their things waking everyone else up. We ate breakfast and then set off up the river towards the 1400 steps that took us up to the city.
+
+<figure class="half">
+	<a href="../images/IMG_7550.jpg"><img src="../images/IMG_7550.jpg" alt=""></a>
+	<a href="../images/IMG_7554.jpg"><img src="../images/IMG_7554.jpg" alt=""></a>
+</figure>
+
+After a 20 minute walk and climb up all the stairs we reached the bottom of the city, and from there our hike was finally paying off. We spent the next few hours exploring the city and all the terraces and areas we could access.
+
+<figure>
+	<a href="../images/IMG_7579.jpg"><img src="../images/IMG_7579.jpg" alt=""></a>
+	<figcaption>Terraces</figcaption>
+</figure>
+
+<figure>
+	<a href="../images/IMG_7592.jpg"><img src="../images/IMG_7592.jpg" alt=""></a>
+	<a href="../images/IMG_7606.jpg"><img src="../images/IMG_7606.jpg" alt=""></a>
+	<a href="../images/IMG_715.jpg"><img src="../images/IMG_761.jpg" alt=""></a>
+</figure>
+
