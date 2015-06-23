@@ -35,6 +35,10 @@ authors:
     name: Jacqui
     display_name: Jacqui
     email: jacquigodinagh@gmail.com
+  "Jacqui & Simon":
+    name: "Jacqui & Simon"
+    display_name: "Jacqui & Simon"
+    email: swarve@gmail.com
 
 # Background image to be tiled on all pages
 background: 
