@@ -68,3 +68,14 @@ image:
 	<a href="../images/IMG_8394.jpg"><img src="../images/th/IMG_8394.jpg" alt=""></a>
 	<a href="../images/IMG_8408.jpg"><img src="../images/th/IMG_8408.jpg" alt=""></a>
 </figure>
+
+## Day 4
+
+<figure>
+	<a href="../images/IMG_DAy4.jpg"><img src="../images/th/IMG_DAy4.jpg" alt=""></a>
+</figure>
+
+<figure class="half">	
+	<a href="../images/IMG_8417.jpg"><img src="../images/th/IMG_8417.jpg" alt=""></a>
+
+</figure>
