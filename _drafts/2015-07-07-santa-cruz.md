@@ -49,7 +49,7 @@ image:
 ## Day 3
 
 <figure>
-	<a href="../images/IMG_8__.jpg"><img src="../images/th/IMG_8__.jpg" alt=""></a>
+	<a href="../images/IMG_8402.jpg"><img src="../images/th/IMG_8402.jpg" alt=""></a>
 </figure>
 
 <figure class="half">	
@@ -60,4 +60,11 @@ image:
 
 <figure>
 	<a href="../images/IMG_8380.jpg"><img src="../images/th/IMG_8380.jpg" alt=""></a>
+</figure>
+
+<figure class="half">	
+	<a href="../images/IMG_8386.jpg"><img src="../images/th/IMG_8386.jpg" alt=""></a>
+	<a href="../images/IMG_8388.jpg"><img src="../images/th/IMG_8388.jpg" alt=""></a>
+	<a href="../images/IMG_8394.jpg"><img src="../images/th/IMG_8394.jpg" alt=""></a>
+	<a href="../images/IMG_8408.jpg"><img src="../images/th/IMG_8408.jpg" alt=""></a>
 </figure>
