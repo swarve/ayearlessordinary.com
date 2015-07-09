@@ -22,15 +22,18 @@ Situated inland from the coast is the city Huaraz, a base for organising many di
 	<a href="../images/IMG_8229.jpg"><img src="../images/th/IMG_8229.jpg" alt=""></a>
 </figure>
 
-After organising almost everything after we arrived in Huaraz, we set off the next morning toward the trailhead in Cashapampa. We arrived at the trailhead about midday after catching 2 taxi's and one minibus from Huaraz.
+After organising almost everything after we arrived in Huaraz, we set off the next morning toward the trailhead in Cashapampa. We arrived at the trailhead about midday after catching 2 taxi's and one minibus from Huaraz and set off in the hot sun.
+
+After many breaks for water as we were walking in the direct sun we settled on a camp spot right next to the river for the night. A few cows around on the trail, but none in the campsite itself or in the river.
 
 <figure class="half">
 	<a href="../images/IMG_8184.jpg"><img src="../images/th/IMG_8184.jpg" alt=""></a>
 	<a href="../images/IMG_8217.jpg"><img src="../images/th/IMG_8217.jpg" alt=""></a>
+	<a href="../images/IMG_8222.jpg"><img src="../images/th/IMG_8222.jpg" alt=""></a>
+	<a href="../images/IMG_8249.jpg"><img src="../images/th/IMG_8249.jpg" alt="Dinner"></a>
 </figure>
 
 <figure>
-	<a href="../images/IMG_8222.jpg"><img src="../images/th/IMG_8222.jpg" alt=""></a>
 	<a href="../images/IMG_8254.jpg"><img src="../images/th/IMG_8254.jpg" alt=""></a>
 </figure>
 
@@ -42,15 +45,19 @@ After organising almost everything after we arrived in Huaraz, we set off the ne
 	<a href="../images/IMG_8281.jpg"><img src="../images/th/IMG_8281.jpg" alt=""></a>
 </figure>
 
-<figure class="half">	
-	<a href="../images/IMG_8285.jpg"><img src="../images/th/IMG_8285.jpg" alt=""></a>
+After awaking from a great sleep (at 6:30, sleep in!) we packed up and set off 
+
+<figure class="half">
+	<a href="../images/IMG_8263.jpg"><img src="../images/th/IMG_8263.jpg" alt="Breakfast"></a>
+	<a href="../images/IMG_8285.jpg"><img src="../images/th/IMG_8285.jpg" alt="Lunch"></a>
 	<a href="../images/IMG_8291.jpg"><img src="../images/th/IMG_8291.jpg" alt=""></a>
-	<a href="../images/IMG_8304.jpg"><img src="../images/th/IMG_8304.jpg" alt=""></a>
 	<a href="../images/IMG_8307.jpg"><img src="../images/th/IMG_8307.jpg" alt=""></a>
+	<a href="../images/IMG_8314.jpg"><img src="../images/th/IMG_8314.jpg" alt="No better place to wash clothes"></a>
+	<a href="../images/IMG_8342.jpg"><img src="../images/th/IMG_8342.jpg" alt=""></a>
 </figure>
 
 <figure>
-	<a href="../images/IMG_8309.jpg"><img src="../images/th/IMG_8309.jpg" alt=""></a>
+	<a href="../images/IMG_8318.jpg"><img src="../images/th/IMG_8318.jpg" alt=""></a>
 	<a href="../images/IMG_8310.jpg"><img src="../images/th/IMG_8310.jpg" alt=""></a>
 </figure>
 
