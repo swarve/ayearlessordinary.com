@@ -64,7 +64,7 @@ After organising almost everything after we arrived in Huaraz, we set off the ne
 	<a href="../images/IMG_8355.jpg"><img src="../images/th/IMG_8355.jpg" alt=""></a>
 	<a href="../images/IMG_8360.jpg"><img src="../images/th/IMG_8360.jpg" alt=""></a>
 	<a href="../images/IMG_8364.jpg"><img src="../images/th/IMG_8364.jpg" alt=""></a>
-	<a href="../images/IMG_8364.jpg"><img src="../images/th/IMG_8373.jpg" alt=""></73
+	<a href="../images/IMG_8364.jpg"><img src="../images/th/IMG_8373.jpg" alt=""></a>
 </figure>
 
 <figure>
