@@ -10,30 +10,31 @@ image:
   feature: 
 ---
 
-Well, 10 days has past since [El Cocuy](https://ayearlessordinary.com/el-cocuy/), so it was time to get back to the mountains. This time, in Peru.
+Only 8 days had past since our memorable adventure in [El Cocuy](https://ayearlessordinary.com/el-cocuy/) and already we were missing the mountains (surprising really after the ordeal we went through). So after a few days of eating incredible food (photo blog of FOOD coming up shortly!) and refuelling in Lima we headed back to the mountains, this time in Peru's famous Cordillera Blanca mountains.
 
-Situated inland from the coast is the city Huaraz, a base for organising many different types of activities in and around the mountains. We arrived in the evening one night with the intention of heading off first thing the next morning to being the <a href="https://en.wikipedia.org/wiki/Alpamayo" target="_blank">Alpamayo</a> circuit trek. This is a trek that includes 75% of the Santa Cruz trek, and then proceeds off in a different direction to loop back around the valley on the other side of the <a href="https://en.wikipedia.org/wiki/Alpamayo" target="_blank">Alpamayo</a> peak.
+Situated inland from the coast is the city Huaraz, a base for organising many different types of outdoor activities in and around the mountains. We arrived in the evening with all our clothes, food and maps ready to head off first thing the next morning to begin the <a href="https://en.wikipedia.org/wiki/Alpamayo" target="_blank">Alpamayo</a> circuit trek. This is a trek that includes 75% of the Santa Cruz trek, and then proceeds off in a different direction to loop back around the valley on the other side of the <a href="https://en.wikipedia.org/wiki/Alpamayo" target="_blank">Alpamayo</a> peak.
 
-The planned trek around Alpamayo had us walking 8-10 days at altitudes between 3000-4900m. 9-10 days worth of food meant our bags were heavy with food, weighing in at around 17-20kg each.
+The planned trek around Alpamayo had us walking 8-10 days at altitudes between 3000-4900m. 9-10 days worth of food meant our bags were really heavy, weighing in at around 17-20kg each. A lot to be hauling up and over pretty big mountain passes.
+
+By day 3 we were considerably tired of lugging around such large bags and after climbing our first mountain pass we both agreed without question to spontaneously change our route and only do the Santa Cruz trek which was 3 nights and 4 days, giving us time that we wouldn't have had to enjoy some of the other activities Huaraz had on offer. This also meant we could eat whatever we wanted on our final days, happily choosing the most delicious things we packed to eat.
 
 <!--<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/swarve.mlj1ip93/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoic3dhcnZlIiwiYSI6Indra1RSUTQifQ.eCLHjdJ74bBiyAKDeiclTA'></iframe>-->
 
 ## Day 1
+
+Reasonably early on day 1 we set off toward the trailhead in Cashapampa. We arrived at about midday after catching 2 taxi's and one minibus from Huaraz totalling around 4 hours of travel along bumpy and unsealed roads ready to start walking with the full force of the hot sun beaming directly down on us.
+
+4 hours of walking with a gradual incline with the sun and heaving bags was enough for us to call it a day, settling on a camp spot right next to the river for the night. A few cows around on the trail, but none in the campsite itself or in the river.
+
 <figure>
 	<a href="../images/IMG_8229.jpg"><img src="../images/th/IMG_8229.jpg" alt=""></a>
 </figure>
-
-After organising almost everything after we arrived in Huaraz, we set off the next morning toward the trailhead in Cashapampa. We arrived at the trailhead about midday after catching 2 taxi's and one minibus from Huaraz and set off in the hot sun.
-
-After many breaks for water as we were walking in the direct sun we settled on a camp spot right next to the river for the night. A few cows around on the trail, but none in the campsite itself or in the river.
-
 <figure class="half">
 	<a href="../images/IMG_8184.jpg"><img src="../images/th/IMG_8184.jpg" alt=""></a>
 	<a href="../images/IMG_8217.jpg"><img src="../images/th/IMG_8217.jpg" alt=""></a>
 	<a href="../images/IMG_8222.jpg"><img src="../images/th/IMG_8222.jpg" alt=""></a>
 	<a href="../images/IMG_8249.jpg"><img src="../images/th/IMG_8249.jpg" alt="Dinner"></a>
 </figure>
-
 <figure>
 	<a href="../images/IMG_8254.jpg"><img src="../images/th/IMG_8254.jpg" alt=""></a>
 </figure>
@@ -41,17 +42,22 @@ After many breaks for water as we were walking in the direct sun we settled on a
 
 ## Day 2
 
+We planned on getting up early as we had around 15km of walking to cover and wanted to get most of it out of the way before the sun hit us hard, well that was the intention. After abruptly waking from a great sleep at 6:30am we realised our plan to leave early had failed, so we decided to just take our time, then enjoyed one of the best trekking breakfast's of mashed potato with bacon bits.. truly so good, you must try it! Oats just don't cut it for us anymore. 
+
+Packing up on dry ground without the numbing cold biting down on us meant we were quite efficient packing up and got going an hour after waking up. Our day started by walking quite casually further up the valley towards the snow covered peaks. Along the way we passed several trekking groups with their mules carrying all of the food and equipment, leaving them happily walking along with a small day pack. You could defiantly see them  inquisitively looking at us, carrying such large bags wondering what we were doing or where we were going.
+
+Shortly before lunch at the lake, in one of the passing trekking groups we saw Gabriel, a German guy we'd been diving with in [Utila](https://ayearlessordinary.com/utila/), nearly 2 months ago (small world!). We also passed groups heading off to climb Alpamayo with all their mountaineering gear- now that was impressive, made our bags look small and lights.
+
+It was nice being able to take the time to stop and enjoy the incredibly oar dropping surroundings on this trek (unlike at El Cocuy), taking as many breaks as we wished, the most impressive of the day being our lunch spot. Sitting by a beautiful aqua blue lake eating chocolate, candy & a little fruit (balance people, balance!).
+
+We actually arrived at our camp spot for the night a couple of hours ahead of schedule (lucky we didn't wake up any earlier!) and questioned making our first pass that afternoon, opting for an afternoon of reading in the sunshine after seeing how beautiful the camp site really was. It was the most spectacular valley surrounded on all sides by snow capped mountains. The valley itself was full of cows and mules freely wandering around, eager to find any bits of left behind food. 
+
+During the night we were woken by a cow at the fly of the tent licking where we had been cooking the previous night. I'd much prefer to be woken by a cow than a bear or jaguar or coyote.
+
 <figure>
 	<a href="../images/IMG_8337.jpg"><img src="../images/th/IMG_8337.jpg" alt=""></a>
 	<a href="../images/IMG_8281.jpg"><img src="../images/th/IMG_8281.jpg" alt=""></a>
 </figure>
-
-After awaking from a great sleep (at 6:30, sleep in!) we enjoyed one of the best trekking breakfast's of mashed potato with bacon bits. After packing up we set off further up the valley towards the snow covered peaks. Along the way we passed several trekking groups all going in the opposite direction which seems to be the more popular route for guided tours.
-
-Shortly before lunch at the lake which was various forms of sugar, in one of the passing trekking groups we saw Gabriel, a German guy we'd been diving with in [Utila](https://ayearlessordinary.com/utila/), nearly 2 months ago. We also passed groups heading off to climb Alpamayo with all their mountaineering gear.
-
-Our camp spot for the night was a fantastic valley surrounded on all sides by snow capped mountains. The valley itself was full of cows wandering around and mules from all the trekking groups.
-
 <figure class="half">
 	<a href="../images/IMG_8263.jpg"><img src="../images/th/IMG_8263.jpg" alt="Breakfast"></a>
 	<a href="../images/IMG_8285.jpg"><img src="../images/th/IMG_8285.jpg" alt="Lunch"></a>
