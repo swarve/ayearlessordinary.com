@@ -87,7 +87,10 @@ The chefs were so generous from the other groups that they were more than happy 
 	<a href="../images/IMG_8380.jpg"><img src="../images/th/IMG_8380.jpg" alt=""></a>
 </figure>
 
-After making our way up through the never ending switchbacks to the Punta Union pass
+After making our way up through the never ending switchbacks to the Punta Union pass we'd made up the first and larger pass for the day. The first glimpses of the second pass we had planned looked extremely steep from Punta Union, and the path to cross wasn't visible. As we started descending, we were in the sun and really enjoying the weather after El Cocuy. 
+
+I'm not sure what we were talking about but we both stopped at the same time said we'd actually prefer to head back to Huaraz and do some other activities like climbing. We were in Huaraz for 12 days and 10 of those were devoted to just trekking. With our bags so heavy I think we'd underestimated our tolerance for the weight of 10 days food over so many mountain passes. So with this decision made, we continued on along the Santa Cruz trail but this now cut our trek to 4 days so we were nearly done. Also, the trek was now downhill all the way to the end, and as we walked further down from Punta Union we looked over at the pass we had been planning to do. It was a very steep scramble to the top with a switchback path leading up.
+
 
 <figure class="half">	
 	<a href="../images/IMG_8386.jpg"><img src="../images/th/IMG_8386.jpg" alt=""></a>
@@ -105,7 +108,14 @@ After making our way up through the never ending switchbacks to the Punta Union 
 	<a href="../images/IMG_8610.jpg"><img src="../images/th/IMG_8610.jpg" alt=""></a>
 </figure>
 
-<figure class="half">	
+After a cold night we awoke to a very wet tent thanks to the condensation. 
+
+<figure class="half">
+	<a href="../images/IMG_3696.jpg"><img src="../images/th/IMG_3696.jpg" alt=""></a>
+	<a href="../images/IMG_3703.jpg"><img src="../images/th/IMG_3703.jpg" alt=""></a>
+	<figcaption>Our new friends, interested in our quesadillas</figcaption>
 	<a href="../images/IMG_8417.jpg"><img src="../images/th/IMG_8417.jpg" alt=""></a>
+	<figcaption>The view in the morning</figcaption>
 	<a href="../images/IMG_8425.jpg"><img src="../images/th/IMG_8425.jpg" alt=""></a>
+	<figcaption>The road back to Huaraz</figcaption>
 </figure>
