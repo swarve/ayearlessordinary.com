@@ -50,18 +50,20 @@ After awaking from a great sleep (at 6:30, sleep in!) we enjoyed one of the best
 
 Shortly before lunch at the lake which was various forms of sugar, in one of the passing trekking groups we saw Gabriel, a German guy we'd been diving with in [Utila](https://ayearlessordinary.com/utila/), nearly 2 months ago. We also passed groups heading off to climb Alpamayo with all their mountaineering gear.
 
+Our camp spot for the night was a fantastic valley surrounded on all sides by snow capped mountains. The valley itself was full of cows wandering around and mules from all the trekking groups.
+
 <figure class="half">
 	<a href="../images/IMG_8263.jpg"><img src="../images/th/IMG_8263.jpg" alt="Breakfast"></a>
 	<a href="../images/IMG_8285.jpg"><img src="../images/th/IMG_8285.jpg" alt="Lunch"></a>
 	<a href="../images/IMG_8291.jpg"><img src="../images/th/IMG_8291.jpg" alt=""></a>
-	<a href="../images/IMG_8307.jpg"><img src="../images/th/IMG_8307.jpg" alt=""></a>
+	<a href="../images/IMG_8307.jpg"><img src="../images/th/IMG_8307.jpg" alt="Alpamayo"></a>
 	<a href="../images/IMG_8314.jpg"><img src="../images/th/IMG_8314.jpg" alt="No better place to wash clothes"></a>
 	<a href="../images/IMG_8342.jpg"><img src="../images/th/IMG_8342.jpg" alt=""></a>
 </figure>
 
 <figure>
 	<a href="../images/IMG_8318.jpg"><img src="../images/th/IMG_8318.jpg" alt=""></a>
-	<a href="../images/IMG_8310.jpg"><img src="../images/th/IMG_8310.jpg" alt=""></a>
+	<a href="../images/IMG_8310.jpg"><img src="../images/th/IMG_8310.jpg" alt="Tawllirahu"></a><figcaption>Tawllirahu (5830m)</figcaption>
 </figure>
 
 ## Day 3
@@ -70,16 +72,22 @@ Shortly before lunch at the lake which was various forms of sugar, in one of the
 	<a href="../images/IMG_8402.jpg"><img src="../images/th/IMG_8402.jpg" alt=""></a>
 </figure>
 
+As we were still planning to do the Alpamayo trek we were doing our best to try and conserve our gas to last us the 10 days. This meant heating food until it was just warm enough to eat, pre-soaking as much food as possible to reduce cooking time. The other way was sending Jacqui the blonde gringa off to 'borrow' hot water from the guided trekking companies with their 20 mules to carry the kitchen tent & equipment. 
+
+The chefs were so generous from the other groups that they were more than happy to give us some hot water for tea or coffee. On the morning of the third day however, Jacqui came back to our tent with the chef carrying two of the fluffiest pancakes we've ever eaten for us! Just what we need for the climbs through two passes for the day.
+
 <figure class="half">	
 	<a href="../images/IMG_8355.jpg"><img src="../images/th/IMG_8355.jpg" alt=""></a>
 	<a href="../images/IMG_8360.jpg"><img src="../images/th/IMG_8360.jpg" alt=""></a>
 	<a href="../images/IMG_8364.jpg"><img src="../images/th/IMG_8364.jpg" alt=""></a>
-	<a href="../images/IMG_8364.jpg"><img src="../images/th/IMG_8373.jpg" alt=""></a>
+	<a href="../images/IMG_8373.jpg"><img src="../images/th/IMG_8373.jpg" alt=""></a>
 </figure>
 
 <figure>
 	<a href="../images/IMG_8380.jpg"><img src="../images/th/IMG_8380.jpg" alt=""></a>
 </figure>
+
+After making our way up through the never ending switchbacks to the Punta Union pass
 
 <figure class="half">	
 	<a href="../images/IMG_8386.jpg"><img src="../images/th/IMG_8386.jpg" alt=""></a>
