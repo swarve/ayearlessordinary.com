@@ -48,9 +48,9 @@ Packing up on dry ground without the numbing cold biting down on us meant we wer
 
 Shortly before lunch at the lake, in one of the passing trekking groups we saw Gabriel, a German guy we'd been diving with in [Utila](https://ayearlessordinary.com/utila/), nearly 2 months ago (small world!). We also passed groups heading off to climb Alpamayo with all their mountaineering gear- now that was impressive, made our bags look small and lights.
 
-It was nice being able to take the time to stop and enjoy the incredibly oar dropping surroundings on this trek (unlike at El Cocuy), taking as many breaks as we wished, the most impressive of the day being our lunch spot. Sitting by a beautiful aqua blue lake eating chocolate, candy & a little fruit (balance people, balance!).
+It was nice being able to take the time to stop and enjoy the incredibly awe-inspiring surroundings on this trek (unlike at El Cocuy thanks to the weather), taking as many breaks as we wished, the most impressive of the day being our lunch spot. Sitting by a beautiful aqua blue lake eating chocolate, candy & a little fruit (balance people, balance!).
 
-We actually arrived at our camp spot for the night a couple of hours ahead of schedule (lucky we didn't wake up any earlier!) and questioned making our first pass that afternoon, opting for an afternoon of reading in the sunshine after seeing how beautiful the camp site really was. It was the most spectacular valley surrounded on all sides by snow capped mountains. The valley itself was full of cows and mules freely wandering around, eager to find any bits of left behind food. 
+We actually arrived at our camp spot for the night a couple of hours ahead of schedule (lucky we didn't wake up any earlier!) and questioned making our first pass that afternoon, opting for an afternoon of reading in the sunshine after seeing how beautiful the camp site really was. It was the most spectacular valley surrounded on all sides by snow capped mountains. The valley itself was full of cows and mules freely wandering around, eager to find any bits of left behind food. We managed to get a bit sunburnt even after putting on sunblock.
 
 During the night we were woken by a cow at the fly of the tent licking where we had been cooking the previous night. I'd much prefer to be woken by a cow than a bear or jaguar or coyote.
 
