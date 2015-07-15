@@ -18,7 +18,7 @@ The planned trek around Alpamayo had us walking 8-10 days at altitudes between 3
 
 By day 3 we were considerably tired of lugging around such large bags and after climbing our first mountain pass we both agreed without question to spontaneously change our route and only do the Santa Cruz trek which was 3 nights and 4 days, giving us time that we wouldn't have had to enjoy some of the other activities Huaraz had on offer. This also meant we could eat whatever we wanted on our final days, happily choosing the most delicious things we packed to eat.
 
-<!--<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/swarve.mlj1ip93/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoic3dhcnZlIiwiYSI6Indra1RSUTQifQ.eCLHjdJ74bBiyAKDeiclTA'></iframe>-->
+<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/swarve.mlj1ip93/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoic3dhcnZlIiwiYSI6Indra1RSUTQifQ.eCLHjdJ74bBiyAKDeiclTA'></iframe>
 
 ________________________________________________
 
