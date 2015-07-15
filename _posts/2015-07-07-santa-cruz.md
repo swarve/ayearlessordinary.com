@@ -54,9 +54,6 @@ Shortly before lunch at the lake, in one of the passing trekking groups we bumpe
 
 It was nice being able to take the time to stop and enjoy the incredibly awe-inspiring surroundings on this trek (unlike at El Cocuy thanks to the weather), taking as many breaks as we wished, the most impressive of the day being our lunch spot. Sitting by a beautiful aqua blue lake eating chocolate, candy & a little fruit (balance people, balance!).
 
-We actually arrived at our camp spot for the night a couple of hours ahead of schedule (lucky we didn't wake up any earlier!) and questioned making our first pass that afternoon, opting for an afternoon of reading in the sunshine after seeing how beautiful the camp site really was. It was the most spectacular valley surrounded on all sides by snow capped mountains. The valley itself was full of cows and mules freely wandering around, eager to find any bits of left behind food. Simon even managed to get sunburnt on the tops of his hands from reading.
-
-
 <figure>
 	<a href="../images/IMG_8281.jpg"><img src="../images/th/IMG_8281.jpg" alt=""></a>
 </figure>
@@ -68,6 +65,8 @@ We actually arrived at our camp spot for the night a couple of hours ahead of sc
 	<a href="../images/IMG_8314.jpg"><img src="../images/th/IMG_8314.jpg" alt="No better place to wash clothes"></a>
 	<a href="../images/IMG_8342.jpg"><img src="../images/th/IMG_8342.jpg" alt=""></a>
 </figure>
+
+We actually arrived at our camp spot for the night a couple of hours ahead of schedule (lucky we didn't wake up any earlier!) and questioned making our first pass that afternoon, opting for an afternoon of reading in the sunshine after seeing how beautiful the camp site really was. It was the most spectacular valley surrounded on all sides by snow capped mountains. The valley itself was full of cows and mules freely wandering around, eager to find any bits of left behind food. Simon even managed to get sunburnt on the tops of his hands from reading.
 
 <figure>
 	<a href="../images/IMG_8318.jpg"><img src="../images/th/IMG_8318.jpg" alt=""></a>
