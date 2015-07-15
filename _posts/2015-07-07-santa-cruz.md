@@ -120,7 +120,7 @@ ________________________________________________
 We casually woke up around 7am and wandered the 5kms out of the National Park where we waited alongside some friendly mules for the long ride back to Huaraz.
 <figure class="half">
 	<a href="../images/IMG_3696.jpg"><img src="../images/th/IMG_3696.jpg" alt=""></a>
-    <figcaption>Our new friends, interested in our quesadillas</figcaption>
+    <caption>Our new friends, interested in our quesadillas</caption>
 	<a href="../images/IMG_3703.jpg"><img src="../images/th/IMG_3703.jpg" alt=""></a>
 	<a href="../images/IMG_8417.jpg"><img src="../images/th/IMG_8417.jpg" alt=""></a>
 	<figcaption>The view in the morning</figcaption>
