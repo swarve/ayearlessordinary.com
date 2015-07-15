@@ -120,12 +120,10 @@ ________________________________________________
 We casually woke up around 7am and wandered the 5kms out of the National Park where we waited alongside some friendly mules for the long ride back to Huaraz.
 <figure class="half">
 	<a href="../images/IMG_3696.jpg"><img src="../images/th/IMG_3696.jpg" alt=""></a>
-    <caption>Our new friends, interested in our quesadillas</caption>
 	<a href="../images/IMG_3703.jpg"><img src="../images/th/IMG_3703.jpg" alt=""></a>
 	<a href="../images/IMG_8417.jpg"><img src="../images/th/IMG_8417.jpg" alt=""></a>
-	<figcaption>The view in the morning</figcaption>
 	<a href="../images/IMG_8425.jpg"><img src="../images/th/IMG_8425.jpg" alt=""></a>
-	<figcaption>The road back to Huaraz</figcaption>
+	<figcaption>Our new friends, interested in our quesadillas. The view in the morning. The road back to Huaraz</figcaption>
 </figure>
 
 The Santa Cruz trek proved to be one of the most beautiful spots we had seen, with extremely magnificent 360 degree views, perfect weather and great company, as always.   
