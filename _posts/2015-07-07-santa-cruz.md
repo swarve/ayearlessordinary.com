@@ -7,7 +7,7 @@ tags: [Peru, Trek, Santa Cruz]
 author: Us
 comments: true
 image:
-feature: 
+feature: IMG_8310-2.jpg
 ---
 
 Only 8 days had past since our memorable adventure in [El Cocuy](https://ayearlessordinary.com/el-cocuy/) and already we were missing the mountains (surprising really after the ordeal we went through). So after a few days of eating incredible food (photo blog of FOOD coming up shortly!) and refuelling in Lima we headed back to the mountains, this time in Peru's famous Cordillera Blanca mountains.
