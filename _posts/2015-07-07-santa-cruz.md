@@ -123,6 +123,7 @@ We casually woke up around 7am and wandered the 5kms out of the National Park wh
 	<a href="../images/IMG_3703.jpg"><img src="../images/th/IMG_3703.jpg" alt=""></a>
 	<a href="../images/IMG_8417.jpg"><img src="../images/th/IMG_8417.jpg" alt=""></a>
 	<a href="../images/IMG_8425.jpg"><img src="../images/th/IMG_8425.jpg" alt=""></a>
+</figure><figure>
 	<figcaption>Our new friends, interested in our quesadillas. The view in the morning. The road back to Huaraz</figcaption>
 </figure>
 
