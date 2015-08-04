@@ -20,13 +20,13 @@ L.mapbox.accessToken = 'pk.eyJ1Ijoic3dhcnZlIiwiYSI6Indra1RSUTQifQ.eCLHjdJ74bBiyA
 var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n10baj29/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
 });
 
-var vector = L.mapbox.tileLayer('swarve.n10baj29')
-    .on('load', function() {
+//var vector = L.mapbox.tileLayer('swarve.n10baj29')
+ //   .on('load', function() {
     // get TileJSON data from the loaded layer
-    var TileJSON = vector.getTileJSON();
-});
+ //   var TileJSON = vector.getTileJSON();
+//});
 
-var map = L.map('map')
+var map = L.map('map', 'swarve.n10baj29')
     .addLayer(mapboxTiles)
     .addLayer(vector)
     .setView([14.94, -91.93], 3);
