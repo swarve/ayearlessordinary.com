@@ -20,6 +20,8 @@ L.mapbox.accessToken = 'pk.eyJ1Ijoic3dhcnZlIiwiYSI6Indra1RSUTQifQ.eCLHjdJ74bBiyA
 var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n10baj29/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
 });
 
+L.mapbox.map('map','swarve.n10baj29')
+
 var map = L.map('map')
     .addLayer(mapboxTiles)
     .setView([14.94, -91.93], 3);
