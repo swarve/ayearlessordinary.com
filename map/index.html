@@ -17,14 +17,10 @@
 <script>
 L.mapbox.accessToken = 'pk.eyJ1Ijoic3dhcnZlIiwiYSI6Indra1RSUTQifQ.eCLHjdJ74bBiyAKDeiclTA';
 // Replace 'mapbox.streets' with your map id.
-var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n10baj29/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
+var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n10baj29.json?access_token=' + L.mapbox.accessToken, {
 });
 
 var layer = L.mapbox.tileLayer('swarve.n10baj29');
- //   .on('load', function() {
-    // get TileJSON data from the loaded layer
- //   var TileJSON = vector.getTileJSON();
-//});
 
 var map = L.map('map')
     .addLayer(mapboxTiles)
