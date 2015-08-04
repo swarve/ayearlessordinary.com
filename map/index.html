@@ -21,6 +21,10 @@ var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n10baj29/{z}/{x}
 });
 
 var vector = L.mapbox.tileLayer('swarve.n10baj29')
+    .on('load', function() {
+    // get TileJSON data from the loaded layer
+    var TileJSON = vector.getTileJSON();
+});
 
 var map = L.map('map')
     .addLayer(mapboxTiles)
