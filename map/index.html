@@ -21,11 +21,14 @@ var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n10baj29/{z}/{x}
 });
 
 var layer = L.mapbox.tileLayer('swarve.n10baj29');
-var featureLayer = L.mapbox.featureLayer('swarve.n10baj29');
+
 
 var map = L.mapbox.map('map','swarve.n10baj29')
     .setView([14.94, -91.93], 3)
-    .addLayer(featureLayer);
+ //   .addLayer(featureLayer);
+
+var featureLayer = L.mapbox.featureLayer('swarve.n10baj29')
+	.addTo(map);
 
 //var map = L.map('map')
 //    .addLayer(mapboxTiles)
