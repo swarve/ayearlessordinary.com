@@ -23,13 +23,12 @@ var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n10baj29/{z}/{x}
 var layer = L.mapbox.tileLayer('swarve.n10baj29');
 
 var map = L.mapbox.map('map','swarve.n10baj29')
-
-
-
-var map = L.map('map')
-    .addLayer(mapboxTiles)
-    .addLayer(layer)
     .setView([14.94, -91.93], 3);
+
+//var map = L.map('map')
+//    .addLayer(mapboxTiles)
+//    .addLayer(layer)
+
 </script>
 </body>
 </html>
