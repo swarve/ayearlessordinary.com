@@ -17,17 +17,17 @@
 <script>
 L.mapbox.accessToken = 'pk.eyJ1Ijoic3dhcnZlIiwiYSI6Indra1RSUTQifQ.eCLHjdJ74bBiyAKDeiclTA';
 // Replace 'mapbox.streets' with your map id.
-var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n10baj29/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
+var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n3nc8nmf/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
 });
 
-var layer = L.mapbox.tileLayer('swarve.n10baj29');
+var layer = L.mapbox.tileLayer('swarve.n3nc8nmf');
 
 
-var map = L.mapbox.map('map','swarve.n10baj29')
+var map = L.mapbox.map('map','swarve.n3nc8nmf')
     .setView([14.94, -91.93], 3)
  //   .addLayer(featureLayer);
 
-var featureLayer = L.mapbox.featureLayer('swarve.n10baj29')
+var featureLayer = L.mapbox.featureLayer('swarve.n3nc8nmf')
 	.addTo(map);
 
 //var map = L.map('map')
