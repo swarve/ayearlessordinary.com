@@ -63,11 +63,21 @@ The toughest part of the climb was nearing the top where we had the final multi-
 
 Once the photos and summit celebrations (shivering and complaining about the cold) were over we began our descent via a different ridge. For the start of the descent Guido was repelling me down off the summit faces, which were impossible to see from above where the anchor was. As I was repelling backwards I saw what I believed was a crevasse that I had to cross. I yelled up at Guido telling him 'hey, big crevasse gap here. Should we go around?'. From his position he couldn't see it so he said yep go straight across it. This basically meant pulling down enough slack on the rope and jumping from one side to the other. As Guido followed me down he was shocked as he saw what I'd crossed. It wasn't a crevasse, it was a large overhanging cornice of snow & ice! Guido had no choice but to follow me over, luckily it was strong enough and held us both.
 
-As we descended further down, the mountain was just as steep. To be able to place anchors and not have to climb back up to take them with us, Guido began digging snow bollards which are giant mushroom shaped channels the rope hooks into. Super time consuming to dig out with an ice tool but much more affordable than lugging anchors to the summit just to leave them behind on the descent.
+As we descended further down, the mountain was just as steep. To be able to place anchors and not have to climb back up to take them with us, Guido began digging snow bollards which are giant mushroom shaped channels the rope hooks into. Super time consuming to dig out with an ice tool, but much more affordable than lugging anchors to the summit just to leave them behind on the descent.
 
 <figure>
 	<img src="../images/th/img_20130811_104043_007.jpg" alt="">
 <figcaption>Snow bollard anchor (source: <a href="http://jive-assanchors.com/2013/08/12/bollards-are-not-jive-ass/" target="_blank">jive ass anchors</a>?)</figcaption>
 </figure>
 
+After 5 or so snow bollard rappels down across the crevasse openings it was back to walking across the flat glacier and once again jumping over more crevasses.
+
+<figure>
+<a href="../images/IMG_8591.jpg"><img src="../images/th/IMG_8591.jpg" alt=""></a>
+<figcaption>The view down from the top.</figcaption>
+	<a href="../images/IMG_4144_1.jpg"><img src="../images/th/IMG_4144_1.jpg" alt=""></a>
+<figcaption>Walking down.</figcaption>
+</figure>
+
+Crevasses, seracs and cornices to dodge on the way up & down. Midnight wake up for a 1am start, 4 hours each way from base camp. Ice axes, crampons, harnesses all completely necessary for this tough but rewarding climb!
 
