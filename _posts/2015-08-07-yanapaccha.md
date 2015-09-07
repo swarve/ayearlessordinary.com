@@ -8,7 +8,7 @@ author: Simon
 comments: true
 image:
   feature: 
-published: false
+published: true
 ---
 
 After our time on the [Santa Cruz trek](https://ayearlessordinary.com/santa-cruz/) we had spent a few days back in Hauraz rock climbing above the city, deciding what we wanted to do next.
@@ -70,7 +70,7 @@ As we descended further down, the mountain was just as steep. To be able to plac
 <figcaption>Snow bollard anchor (source: <a href="http://jive-assanchors.com/2013/08/12/bollards-are-not-jive-ass/" target="_blank">jive ass anchors</a>?)</figcaption>
 </figure>
 
-After 5 or so snow bollard rappels down across the crevasse openings it was back to walking across the flat glacier and once again jumping over more crevasses.
+After 5 or so snow bollard rappels down across the crevasse openings it was back to walking across the flat glacier and once again jumping over more crevasses. With the end in sight and a much slower descent than planned we made quick time across the flatter slopes and back to base camp.
 
 <figure>
 <a href="../images/IMG_8591.jpg"><img src="../images/th/IMG_8591.jpg" alt=""></a>
