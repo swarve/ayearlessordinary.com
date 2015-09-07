@@ -7,7 +7,7 @@ tags: [Peru, Climbing, Yanapaccha]
 author: Simon
 comments: true
 image:
-  feature: 
+  feature: IMG_8564.jpg
 published: true
 ---
 
