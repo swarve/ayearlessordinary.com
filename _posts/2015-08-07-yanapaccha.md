@@ -54,7 +54,7 @@ The toughest part of the climb was nearing the top where we had the final multi-
 <figcaption>Anchored in at the top.</figcaption>
 </figure>
 
-<figure class="half">
+<figure>
 	<a href="../images/IMG_8590.jpg"><img src="../images/th/IMG_8590.jpg" alt=""></a>
 <figcaption>Huascarán, the highest mountain in Peru (6768m)</figcaption>
 <a href="../images/IMG_8587.jpg"><img src="../images/th/IMG_8587.jpg" alt=""></a>
