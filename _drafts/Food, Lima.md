@@ -30,6 +30,7 @@ The after school special, and go to for these boys was the Ceviche on the corner
 	<a href="../images/IMG_4158.jpg"><img src="../images/th/IMG_4158.jpg" alt=""></a>
 	<a href="../images/IMG_4159.jpg"><img src="../images/th/IMG_4159.jpg" alt=""></a>
 </figure>
+
 <figure>
 <a href="../images/IMG_8164.jpg"><img src="../images/th/IMG_8164.jpg" alt=""></a>
 <figcaption> Chicharrón from the Lima food festival.</figcaption></figure>
@@ -37,16 +38,16 @@ The after school special, and go to for these boys was the Ceviche on the corner
 What a lot of people don't know is that Peru was one of the first country to cultivate potatoes as they are from the Andes. They now have over 1000 varieties of potatoes, all with different tastes and uses for cooking.
 
 <figure class="half">
-		<a href="../images/IMG_8123.jpg"><img src="../images/th/IMG_8123.jpg" alt=""></a>
+	<a href="../images/IMG_8123.jpg"><img src="../images/th/IMG_8123.jpg" alt=""></a>
 	<a href="../images/IMG_8125.jpg"><img src="../images/th/IMG_8125.jpg" alt=""></a>
 </figure>
 
 I fell in love with how cheap and available incredible superfoods (as we know them) such as chia, quinoa, corn, maca and amaranth are in Peru. These are used in everyday cooking for Peruvians and are simply their local and regular produce.  You can find them everywhere as the wholegrain or as flours at markets or in the supermarket. Surely going to miss these!
 
 <figure class="half">
-		<a href="../images/IMG_8128.jpg"><img src="../images/th/IMG_8128.jpg" alt=""></a>
+	<a href="../images/IMG_8128.jpg"><img src="../images/th/IMG_8128.jpg" alt=""></a>
 	<a href="../images/IMG_8143.jpg"><img src="../images/th/IMG_8143.jpg" alt=""></a>
-		<a href="../images/IMG_3533.jpg"><img src="../images/th/IMG_3533.jpg" alt=""></a>
+	<a href="../images/IMG_3533.jpg"><img src="../images/th/IMG_3533.jpg" alt=""></a>
 	<a href="../images/IMG_3535.jpg"><img src="../images/th/IMG_3535.jpg" alt=""></a>
 </figure>
 
