@@ -35,7 +35,7 @@ The after school special, and go to for these boys was the Ceviche on the corner
 <a href="../images/IMG_8164.jpg"><img src="../images/th/IMG_8164.jpg" alt=""></a>
 <figcaption> Chicharrón from the Lima food festival.</figcaption></figure>
 
-What a lot of people don't know is that Peru was one of the first country to cultivate potatoes as they are from the Andes. They now have over 1000 varieties of potatoes, all with different tastes and uses for cooking.
+What a lot of people don't know is that Peru was one of the first country to domesticate potatoes as they are from the Andes. They now have over 1000 varieties of potatoes, all with different tastes and uses for cooking.
 
 <figure class="half">
 	<a href="../images/IMG_8123.jpg"><img src="../images/th/IMG_8123.jpg" alt=""></a>
