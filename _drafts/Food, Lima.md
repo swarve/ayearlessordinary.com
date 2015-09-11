@@ -4,7 +4,7 @@ title: "The food of Lima"
 description: "Eating our way through the capital of Peru"
 modified: 2015-08-24
 tags: [Peru, Lima]
-author: Simon
+author: Jacqui
 comments: true
 image:
   feature: IMG_8040.jpg
@@ -24,24 +24,24 @@ After scrolling through our photos we took from Lima it was clear that instead o
 
 It's the simplicity of freshness and flavour that makes Peruvian food so delicious and unique.
 	
-The after school special and go to for these boys were the Ceviche on the corner sold by a man from his little street stall. It was around $2 and delicious! Nothing like this is available back home. 	
+The after school special, and go to for these boys was the Ceviche on the corner sold by a man from his little street stall. It was around $1 and delicious! Nothing like this is available back home, as most after school food tends to be junk food in Australia.
 	
 <figure class="half">
-		<a href="../images/IMG_4158.jpg"><img src="../images/th/IMG_4158.jpg" alt=""></a>
+	<a href="../images/IMG_4158.jpg"><img src="../images/th/IMG_4158.jpg" alt=""></a>
 	<a href="../images/IMG_4159.jpg"><img src="../images/th/IMG_4159.jpg" alt=""></a>
 </figure>
 <figure>
 <a href="../images/IMG_8164.jpg"><img src="../images/th/IMG_8164.jpg" alt=""></a>
 <figcaption> Chicharrón from the Lima food festival.</figcaption></figure>
 
-What a lot of people don't know is that Peru was the first country to grow potatoes. They now have over 1000 varieties of potatoes, all with different tastes and uses for cooking.
+What a lot of people don't know is that Peru was one of the first country to cultivate potatoes as they are from the Andes. They now have over 1000 varieties of potatoes, all with different tastes and uses for cooking.
 
 <figure class="half">
 		<a href="../images/IMG_8123.jpg"><img src="../images/th/IMG_8123.jpg" alt=""></a>
 	<a href="../images/IMG_8125.jpg"><img src="../images/th/IMG_8125.jpg" alt=""></a>
 </figure>
 
-I fell in love with how cheap and available incredible superfoods (as we know them) such as chia, quinoa, corn, maca and amaranth are in Peru. These are used in everyday cooking for Peruvians and are simply there local and regular produce.  You can find them everywhere as the wholegrain or as flours at markets or in the supermarket. Surely going to miss these!
+I fell in love with how cheap and available incredible superfoods (as we know them) such as chia, quinoa, corn, maca and amaranth are in Peru. These are used in everyday cooking for Peruvians and are simply their local and regular produce.  You can find them everywhere as the wholegrain or as flours at markets or in the supermarket. Surely going to miss these!
 
 <figure class="half">
 		<a href="../images/IMG_8128.jpg"><img src="../images/th/IMG_8128.jpg" alt=""></a>
@@ -50,6 +50,7 @@ I fell in love with how cheap and available incredible superfoods (as we know th
 	<a href="../images/IMG_3535.jpg"><img src="../images/th/IMG_3535.jpg" alt=""></a>
 </figure>
 
-<a href="../images/IMG_8129.jpg"><img src="../images/th/IMG_8129.jpg" alt=""></a>
+<figure>
+<a href="../images/IMG_8129.jpg"><img src="../images/th/IMG_8129.jpg" alt=""></a></figure>
  
 If any of this tempts you, we will be more than happy to have you over and feed you when we are home!
