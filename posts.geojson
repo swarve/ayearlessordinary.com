@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/first-post/",
+        "Name": "Our year less ordinary begins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12073230743408,
+          49.28085236522246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/polar-bears/",
+        "Name": "Vancouver Polar Bear Swim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1435203552246,
+          49.285891369571395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/stevens-pass/",
+        "Name": "Stevens Pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.09165191650389,
+          47.745326055860055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/sun-peaks/",
+        "Name": "Sun Peaks BC, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.88452911376953,
+          50.884625737302635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/snowboarding/",
+        "Name": "The snow at Sun Peaks BC, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.88500118255615,
+          50.900651146430086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/australia-day/",
+        "Name": "Australia Day 2015 at Sun Peaks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8908805847168,
+          50.89361363903644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/food/",
+        "Name": "Hotel Living"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.88253355026244,
+          50.884801721902726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/last-weeks-at-sun-peaks/",
+        "Name": "The last few weeks at Sun Peaks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.872727394104,
+          50.876421409703035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/forestplay-canmore/",
+        "Name": "First Tracks Forest Play: An Enlightening Experience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3095817565918,
+          51.07861602541075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/ast1-canmore/",
+        "Name": "AST1 Avalanche Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.24812698364256,
+          50.750902359391056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/calgary/",
+        "Name": "Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.07383441925049,
+          51.03799386508943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Icefields Parkway",
+        "URL": "https://ayearlessordinary.com/icefields-parkway/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.41061782836914,
+          51.65722279808633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/mexico-city/",
+        "Name": "Scenes from Mexico City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1332221031189,
+          19.43276236383354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/oaxaca/",
+        "Name": "Oaxaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.72665834426878,
+          17.0589898353854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/cooking-in-oaxaca/",
+        "Name": "Cooking in Oaxaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.71750664710999,
+          17.072877028645216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/sierra-norte-day1/",
+        "Name": "Cuajimoloyas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.45275115966795,
+          17.11962844541593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/doors-of-oaxaca/",
+        "Name": "The Doors of Oaxaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.72538161277771,
+          17.060610403062004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/puerto-escondido/",
+        "Name": "Puerto Escondido"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0564842224121,
+          15.853237825271354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "https://ayearlessordinary.com/san-cristobal-guatemala/",
+        "Name": "San Cristobal Las Casas & Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.25619649887085,
+          14.727384735828945
+        ]
+      }
+    }
+  ]
+}
