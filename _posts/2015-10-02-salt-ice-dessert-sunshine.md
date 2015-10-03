@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Salt, ice, dessert and sunshine"
+title: "Salt, ice, desert and sunshine"
 description: "A 3 day tour from The freezing Salt Flats to the driest dessert in the world"
 modified: 2015-10-02
 tags: [Bolivia, Chile, saltflats, ice, snow]
@@ -11,7 +11,7 @@ image:
 published: true
 ---
 
-We had the privilege of visiting the remarkable Salt Flats in Bolivia over a 3 day tour that took us from the freezing Salt Flats of Uyuni to the driest dessert in the world in Chile.
+We had the privilege of visiting the remarkable Salt Flats in Bolivia over a 3 day tour that took us from the freezing Salt Flats of Uyuni to the driest desert in the world in Chile.
  
 We were unsure of what to expect from the tour after seeing only a few typical funny photos from other groups and I must say that we were overwhelmed with how vast of an area the Salt Flats span across and how stunning such a barren landscape can be.
 
