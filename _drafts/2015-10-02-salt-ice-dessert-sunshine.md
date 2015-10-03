@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Salt, ice, dessert and sunshine"
-description: "A 3 day tour from The freezing Salt Faltsto the driest dessert in the world"
+description: "A 3 day tour from The freezing Salt Flats to the driest dessert in the world"
 modified: 2015-10-02
 tags: [Bolivia, Chile, saltflats, ice, snow]
 author: Jacqui
