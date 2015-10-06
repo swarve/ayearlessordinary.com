@@ -29,6 +29,7 @@
 </style>
 </head>
 <body>
+
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
@@ -75,9 +76,7 @@ var map = L.mapbox.map('map','swarve.n3nc8nmf')
 var featureLayer = L.mapbox.featureLayer('swarve.n3nc8nmf')
 	.addTo(map);
 
-//var map = L.map('map')
-//    .addLayer(mapboxTiles)
-
+new L.Control.Zoom({ position: 'topright' }).addTo(map);
 
 </script>
 </body>
