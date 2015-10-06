@@ -69,7 +69,7 @@ var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/swarve.n3nc8nmf/{z}/{x}
 var layer = L.mapbox.tileLayer('swarve.n3nc8nmf');
 
 
-var map = L.mapbox.map('map','swarve.n3nc8nmf')
+var map = L.mapbox.map('map','swarve.n3nc8nmf', { zoomControl: false })
     .setView([14.94, -91.93], 3)
  //   .addLayer(featureLayer);
 
