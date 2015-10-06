@@ -29,7 +29,34 @@
 </style>
 </head>
 <body>
-{% include navigation.html %}
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="https://ayearlessordinary.com">Home</a></li>
+		<li>
+			<a href="#">About</a>
+			<ul class="dl-submenu">
+				<li>
+					<img src="https://ayearlessordinary.com/images/avatar.jpg" alt="Simon &amp; Jacqui photo" class="author-photo">
+					<h4>Simon &amp; Jacqui</h4>
+					<p>Travelling. One day at a time</p>
+				</li>
+				<li><a href="https://ayearlessordinary.com/about/">Learn More</a></li>
+				<li>
+					<a href="/cdn-cgi/l/email-protection#92e1e5f3e0e4f7d2f5fff3fbfebcf1fdff"><i class="fa fa-envelope"></i> Email</a>
+				</li>	
+			</ul><!-- /.dl-submenu -->
+		</li>
+		<li>
+			<a href="#">Posts</a>
+			<ul class="dl-submenu">
+				<li><a href="https://ayearlessordinary.com/posts/">All Posts</a></li>
+				<li><a href="https://ayearlessordinary.com/tags/">All Tags</a></li>
+			</ul>
+		</li>
+	    <li><a href="https://ayearlessordinary.com/map/" >Map</a></li>  
+	</ul><!-- /.dl-menu -->
+</nav><!-- /.dl-menuwrapper -->
 <div id='map'></div>
 
 <script>
