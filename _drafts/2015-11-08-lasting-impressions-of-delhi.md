@@ -19,11 +19,12 @@ After being in India for a little over a week, we were pretty confident we had e
 We had navigated our way around Mumbai via local side-hanging sardine trains, eaten delicious food from happy smiling street vendors, visited a slum, learnt to block out the blinding noise of 100s of horns at once ('horn-ok-please' they say), ridden tuk-tuks all around town chatting with drivers about Ricky Ponting and Aussieland, met so many people that have friends in Aus, mingled with the locals of Goa, ridden a scooter around town and haggled with many at markets and bazaars. We were falling in love with India. The people, the landscape, the optimism, the colours, the diversity and the food (don't get me started on the food).
 
 <figure>
-<a href="../images/IMG_9054.jpg"><img src="../images/th/IMG_9054.jpg" alt=""></a>
-<figcaption></figcaption>
-<a href="../images/IMG_9095.jpg"><img src="../images/th/IMG_9095.jpg" alt=""></a>
-<a href="../images/IMG_9173.jpg"><img src="../images/th/IMG_9173.jpg" alt=""></a>
-<a href="../images/IMG_9210.jpg"><img src="../images/th/IMG_9210.jpg" alt=""></a></figure>
+<a href="../images/IMG_3438.jpg"><img src="../images/th/IMG_3438.jpg" alt=""></a>
+<a href="../images/IMG_3493-2.jpg"><img src="../images/th/IMG_3493-2.jpg" alt=""></a>
+<a href="../images/IMG_3500.jpg"><img src="../images/th/IMG_3500.jpg" alt=""></a>
+<a href="../images/IMG_3533-2.jpg"><img src="../images/th/IMG_3533-2.jpg" alt=""></a>
+<figcaption>Mumbai.</figcaption>
+</figure>
 
 But then we arrived in Delhi... An altogether different world and with a giant slap in the face. An unforgettable 2 days.
 
@@ -33,11 +34,16 @@ We prepaid a taxi from the airport, as you do, particularly when you arrive at 2
 
 From that moment it was absolute chaos, the kind we hadn't ever experienced, not even in the past 11 months through Central or South America. It was a chaos of colour, noise, smog, smoke and people trying to help find our cab "I'll take you" "I'm your driver" "I'm prepaid taxi" "Need help?" "Where you go?" "I have a good hotel".. touts. They were in every nook and corner trying to help or sell something or the other.
 
-We found our prepaid taxi, closed the doors and warmly welcomed silence. The streets were quiet enough and our taxi driver seemed to know where he was going.. we were moving quickly. Then we got to a point of a closed road, still roughly 2km from our hotel. The driver insisted that we couldn't go around to another road, that all the roads were closed and it was to difficult to get to the hotel. "Call your hotel and tell them we cant get there" We don't have an Indian phone number of course "I can call" "You have to pay more to get there with another taxi".. Looking at our map it was clear he was lying and trying to play us as the fool. Eventually after quite a bit of yelling, demanding and giving him turn by turn directions (almost sounds like Melbourne) we made it to our hotel. Was he even our prepaid taxi driver? We still don't know. How do you ever know? 
+We found our prepaid taxi, closed the doors and warmly welcomed to silence. The streets were quiet enough and our taxi driver seemed to know where he was going.. we were moving quickly. Then we got to a point of a closed road, still roughly 2km from our hotel. The driver insisted that we couldn't go around to another road, that all the roads were closed and it was to difficult to get to the hotel. "Call your hotel and tell them we cant get there" We don't have an Indian phone number of course "I can call" "You have to pay more to get there with another taxi".. Looking at our map it was clear he was lying and trying to play us as the fool. Eventually after quite a bit of yelling, demanding and giving him turn by turn directions (almost sounds like Melbourne) we made it to our hotel. Was he even our prepaid taxi driver? We still don't know. How do you ever know? 
 
 The hotel staff were useless, but I won't even go into that. Time to sleep.  
 
-We woke up the following morning fresh and ready to see Delhi, we were excited! But before seeing anything we had to head to the train station and get tickets for the remainder of the trip as we would be travelling on train around Rajasthan. 
+We woke up the following morning fresh and ready to see Delhi, we were excited! But before seeing anything we had to head to the train station and get tickets for the remainder of the trip as we would be travelling on train around Rajasthan.
+
+<figure>
+<a href="../images/IMG_3560.jpg"><img src="../images/th/IMG_3560.jpg" alt=""></a>
+<figcaption>The ever present tuktuk</figcaption>
+</figure>
 
 Trains are the quintessential way of travelling around India and roughly 30,000,000 Indians travel by train through India per day. Yes I did write 30 million. So as you can imagine it is tough to get tickets and they must be booked very far in advance. As a tourist we are lucky to have a small quota dedicated to touristic travel, but even these seats fill up quickly.
 
@@ -46,10 +52,9 @@ Our hotel was less than 1 km away from the station so we chose to walk the dista
 We were at this stage about 200m from the station and ready to turn right when a very friendly local told us we just needed to cross this road to get to the station, but why were we going there? That we needed to go to the government office in the centre of town as tourists to get train tickets, not to the station. He was very convincing and we had read about the Government office. He helped us hail a tuk-tuk for a good price and told the driver where we needed to get to, the government tourism office. The driver was lovely- asking us so many questions, sharing humour about Aussies and how good we are at cricket. About 20 minutes later we arrived at 'the government office' where we were warmly welcomed outside into a travel agent office and introduced to a man who guaranteed us that we were in the right place and that he would help us buy train tickets. <b>Great!</b> There were also other tourists in here at the time. 
 
 <figure>
-<a href="../images/IMG_9365.jpg"><img src="../images/th/IMG_9365.jpg" alt=""></a></figure>
+<a href="../images/IMG_3571.jpg"><img src="../images/th/IMG_3571.jpg" alt=""></a></figure>
 
-
-As soon as we entered the office we knew that it wasn't the government office, regardless of what this man guaranteed us. We decided to stay and hear him out. He offered us tea and beer and started planning our itinerary around Rajasthan. We knew it was a busy period with the Diwali holiday coming up and that trains were quickly filling up so were keen to organise ourselves ASAP. The itinerary he planned out with us sounded great/ everywhere we wanted to go and acheiveable in our tight time limit. We started looking into trains & every-time he searched for a train he would turn the screen away and then show us that they were fully booked. He followed by suggesting to go via taxi that he would organise for the entire trip, a private driver, all paid for, no hassel, cheaper than trains! Wow! Can you imagine travelling in a taxi for an overnight trip of 14 hours. Our driver could barely stay awake in the 5 hour journey from Goa airport.
+As soon as we entered the office we knew that it wasn't the government office, regardless of what this man guaranteed us. We decided to stay and hear him out. He offered us tea and beer and started planning our itinerary around Rajasthan. We knew it was a busy period with the Diwali holiday coming up and that trains were quickly filling up so were keen to organise ourselves ASAP. The itinerary he planned out with us sounded great/ everywhere we wanted to go and achievable in our tight time limit. We started looking into trains & every-time he searched for a train he would turn the screen away and then show us that they were fully booked. He followed by suggesting to go via taxi that he would organise for the entire trip, a private driver, all paid for, no hassle, cheaper than trains! Wow! Can you imagine travelling in a taxi for an overnight trip of 14 hours. Our driver could barely stay awake in the 1.5 hour journey from Goa airport.
 
 We were familiar with the train system and Simon had looked at the availability that morning and knew that there were still seats on trains, so we questioned him. He turned around with an over the top audacious spiel about us not trusting him and Indians and that we needed to trust him. In order to prove he was legit he opened Facebook and showed us some reviews from other fellow 'Aussies' he had helped, while rambling off a number of clients he had organised trips for. Not exactly what we wanted to hear and at this point decided it was time to leave. We were correct in our assumption and that our time was being wasted. We left the office and were told immediately that this was a fake tourism office and that the actual government office was on the next corner. Basically, we knew exactly what was happening but went along for the ride anyway, still extremely frustrated that we had wasted an hour. On a positive, we had a better itinerary than we went in with and the taste of a delicious chai lingering. 
 
@@ -57,11 +62,11 @@ We made it to the government office around the corner and she told us straight a
 
 Do you know what, we actually made it to the train office!! 3-4hrs after we set off that morning. Unbelievable. 
 
-After around an hour of waiting, and then over 30 minutes to buy tickets with the worlds slowest computer system we finally had 3 train tickets getting us to and from 3 of the 5 places we wanted to go. Lucky, with only a few seats to spare. Job done. It only took half the day! And by this stage we had grown beyond tired of Delhi, it was draining- the scamming, the distrustful people, the noise. We walked back to our hotel with a delicious lunch pit stop. Food in Delhi is something that definatly doesn't dissapoint. 
+After around an hour of waiting, and then over 30 minutes to buy tickets with the worlds slowest computer system we finally had 3 train tickets getting us to and from 3 of the 5 places we wanted to go. Lucky, with only a few seats to spare. Job done. It only took half the day! And by this stage we had grown beyond tired of Delhi, it was draining- the scamming, the distrustful people, the noise. We walked back to our hotel with a delicious lunch pit stop. Food in Delhi is something that definitely doesn't dissapoint. 
 Dinner that night was also uneventful and delicious. 
 
 <figure>
-<a href="../images/IMG_9365.jpg"><img src="../images/th/IMG_9365.jpg" alt=""></a></figure>
+<a href="../images/IMG_3587.jpg"><img src="../images/th/IMG_3587.jpg" alt=""></a></figure>
 
 
 The next morning we were booked onto a tour through PajarGanj and with a foundation called Salaam Balak (meaning hello, greeting children) that helps street kids in Delhi- providing them with a home, education and health care. It was a confronting experience hearing what children and families are faced with here in India. With many of the children both boys and girls (5-18yrs) fleeing small villages for many different reasons to make their way to Delhi, believing they would have better opportunities. Unfortunately for 90% of the children this is not the case and they end up on the streets involved in drugs, begging and struggling to survive. That's where Salaam Balak steps in to try and help as many children as possible. 
