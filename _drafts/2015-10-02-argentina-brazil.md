@@ -17,8 +17,22 @@ Our number 1 must see in Argentina, Patagonia, was sadly crossed off our list be
 
 We gave ourselves roughly 2 weeks in both Argentina and Brazil, limiting us to visiting 2 or 3 places in each.. But after days of drinking and eating two weeks was enough for us in Argentina and well, I could eat Açai and live in Rio de Janeiro anyway but Europe was calling...
 
-<b>Salta, Argentina.</b>
-When stepped off the bus in Salta it felt as though we had in Europe. The people, the culture, the architecture and the modern comforts of Argentina were instantly visible and it was a complete contract to where we had been perviously. Salta is a sophisticated and romantic city with cafes lining the streets and music being played in the many plazas throughout the city. For us, as with many, our first priority in Argentina was to eat some of the well renown steaks of Argentina. 
+### San Pedro de Atacama, Chile
+Our 3 day tour of the [Uyuni salt flats](https://ayearlessordinary.com/salt-ice-dessert-sunshine/) in Bolivia finished and we had 2 days to spend in Chile before catching a bus to Argentina.
+
+We didn't do much for the day and half we had, except eat great food (empanadas!), try some excellent Chilean wine and explore the desert that surrounds the town. The Atacama desert is the driest desert in the world, with a total of 1mm of rainfall per year!
+
+We explored on bikes the canyon of Quebrada del Diablo and had a great picnic lunch.
+
+<figure class="half">
+	<a href="../images/IMG_4704.jpg"><img src="../images/th/IMG_4704.jpg" alt=""></a>
+	<a href="../images/IMG_4750.jpg"><img src="../images/th/IMG_4750.jpg" alt=""></a>
+<figcaption>San Pedro de Atacama, Chile</figcaption>
+</figure>
+
+### Salta, Argentina.
+
+When stepped off the bus in Salta it felt as though we had arrived in Europe. The people, the culture, the architecture and the modern comforts of Argentina were instantly visible and it was a complete contrast to where we had been previously. Salta is a sophisticated and romantic city with cafes lining the streets and music being played in the many plazas throughout the city. For us, as with many, our first priority in Argentina was to eat some of the well renown steaks of Argentina. 
 
 
 
