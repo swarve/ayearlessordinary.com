@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Lasting impressions of Delhi"
-description: "2 days to long in the Capital."
-modified: 2015-02-10
+description: "2 days too long in the Capital."
+modified: 2015-11-08
 tags: [India, Delhi, New Delhi]
 author: Jacqui
 comments: true
 image:
-  feature:
+  feature: IMG_3560.jpg
 published: true
 ---
 
@@ -67,24 +67,24 @@ Dinner that night was also uneventful and delicious.
 
 <figure>
 <a href="../images/IMG_3587.jpg"><img src="../images/th/IMG_3587.jpg" alt=""></a></figure>
+<figcaption>Chai on the street</figcaption>
 
 
-The next morning we were booked onto a tour through PajarGanj and with a foundation called Salaam Balak (meaning hello, greeting children) that helps street kids in Delhi- providing them with a home, education and health care. It was a confronting experience hearing what children and families are faced with here in India. With many of the children both boys and girls (5-18yrs) fleeing small villages for many different reasons to make their way to Delhi, believing they would have better opportunities. Unfortunately for 90% of the children this is not the case and they end up on the streets involved in drugs, begging and struggling to survive. That's where Salaam Balak steps in to try and help as many children as possible. 
+The next morning we were booked onto a tour through PajarGanj and with a foundation called Salaam Baalak (meaning hello, greeting children) that helps street kids in Delhi- providing them with a home, education and health care. It was a confronting experience hearing what children and families are faced with here in India. With many of the children both boys and girls (5-18yrs) fleeing small villages for many different reasons to make their way to Delhi, believing they would have better opportunities. Unfortunately for 90% of the children this is not the case and they end up on the streets involved in drugs, begging and struggling to survive. That's where Salaam Baalak steps in to try and help as many children as possible. 
 
 <figure>
-<a href="../images/IMG_9365.jpg"><img src="../images/th/IMG_9365.jpg" alt=""></a></figure>
+<a href="../images/IMG_3603-2.jpg"><img src="../images/th/IMG_3603-2.jpg" alt=""></a></figure>
 
 
 It was great meeting many of the boys aged around 5-12 who are happy, healthy and safe with opportunities they wouldn't have found elsewhere. This was the one thing I wanted to do in Delhi, so I'm happy to to have experienced this and hopefully contributed in some ways via donations.
 
 <figure>
-<a href="../images/IMG_9365.jpg"><img src="../images/th/IMG_9365.jpg" alt=""></a></figure>
+<a href="../images/IMG_3606.jpg"><img src="../images/th/IMG_3606.jpg" alt=""></a></figure>
 
-
-Following the tour we had the most incredible vegetarian thali around the corner from our hotel and headed back to collect our bag, giving us 1.5hrs to get to the Old Delhi train station located 4km away to get our train to Jaipur. It seemed to be far too difficult for the hotel to organise a taxi "the taxis are broken down" and after 30 minutes of sitting around listening to back and forth Hindi going nowhere we reluctently went with a tuk-tuk with all of our luggage! 
+Following the tour we had the most incredible vegetarian thali around the corner from our hotel and headed back to collect our bag, giving us 1.5hrs to get to the Old Delhi train station located 4km away to get our train to Jaipur. It seemed to be far too difficult for the hotel to organise a taxi "the taxis are broken down" and after 30 minutes of sitting around listening to back and forth Hindi going nowhere we reluctantly went with a tuk-tuk with all of our luggage! 
 
 <figure>
-<a href="../images/IMG_9365.jpg"><img src="../images/th/IMG_9365.jpg" alt=""></a></figure>
+<a href="../images/IMG_3567-2.jpg"><img src="../images/th/IMG_3567-2.jpg" alt=""></a></figure>
 
 
 A journey that should have taken 30 minutes max in traffic took over 50 minutes.. With the driver taking us on the most complex ridiculous traffic congested route of 8km, getting us to 50m away from the station in the middle of an intersection, literally 5 minutes before our train left. We were already prepared to miss the train and have to stay in Delhi for an extra night and try to find a new train ticket for tomorrow that wouldn't be available. So we just had to go for it. We jumped out onto a busy road with oncoming traffic, crossing an intersection by holding our hands out telling traffic to stop and RUN into the back entrance of the station trying to find the platform where our train departed from. We ran as fast as our bags would allow us, asking anyone we saw where to go.. all pointing us in a general direction up the platform. Seriously, the longest platforms ever and barely a sign or information board in sight! It was 3:19pm now and our train was leaving at 3:20pm and we still had no clue where the train left from. We were told platform 4 from a man working at the station and we ran up the stairs pushing rudely past so many people, accidentally slapping people in the face with our backpack waist straps. Ok we were now on platform 4, we ran to the front looking for our carriage while asking if this was the ashram express and them responding with a head wobble and a no... Great. 3:21pm. We were at the end of the platform and it wasn't our train. 
@@ -93,13 +93,8 @@ In some other universe or place we must have done something right because we cou
 
 We actually got on the train with not even a second to spare.
 
-<figure>
-<a href="../images/IMG_9365.jpg"><img src="../images/th/IMG_9365.jpg" alt=""></a></figure>
+__________________________________________
 
 We are now sitting on that train, drinking chai masala while sharing some homemade snacks with the family sitting across from us. We talked about Diwali and the many colourful, wild holidays and rituals India celebrates. We shared our story from Delhi. We played and spoke with their 7 year old son. They asked us many questions about our trip and adventure. We spoke about trains and they told us that they had to book the seats they were sitting in 4 months in advance. We laughed together and slowly forgot about Delhi, focusing on the next leg of our journey.  
 
 We still cannot believe we made this train. And that we are out of Delhi. It was only 2 days, but it was 2 days too long. <b>Farewell Delhi</b>, time for Jaipur and what it has to offer. 
-
-<figure>
-<a href="../images/IMG_9365.jpg"><img src="../images/th/IMG_9365.jpg" alt=""></a></figure>
-
